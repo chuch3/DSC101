@@ -3,11 +3,7 @@ Data analysis and model fitting for DSC101 course project.
 
 ## To-do:
 
-- [ ] Select a Kaggle or Papers With Code dataset
-    - [ ] Regression, classification, clustering or reinforcement dataset
-
 - [ ] Create project structure following this [cookiecutter](https://cookiecutter-data-science.drivendata.org/#) format.
-
 
 ## Resources : 
 
