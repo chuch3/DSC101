@@ -1,0 +1,1251 @@
+location,list_price,unit_price,number_bedroom,number_bathroom,area,type
+"Johor Bahru, Johor",1680000.0,52342.0,4.0,4.0,3212.0,House
+"Johor Bahru, Johor",1750000.0,53852.0,5.0,5.0,3252.0,House
+"Johor Bahru, Johor",772000.0,34622.0,4.0,4.0,2232.0,Townhouse
+"Johor Bahru, Johor",768000.0,3102.0,4.0,5.0,24752.0,Townhouse
+"Johor Bahru, Johor",1188000.0,4192.0,4.0,5.0,28332.0,Villa
+"Johor Bahru, Johor",450000.0,44362.0,4.0,3.0,101.452,Condo
+"Johor Bahru, Johor",2600000.0,5662.0,5.0,5.0,45902.0,Villa
+"Johor Bahru, Johor",3500000.0,8502.0,6.0,6.0,41202.0,Villa
+"Kinta, Perak",450000.0,3272.0,3.0,3.0,13772.0,Condo
+"Kuala Kangsar, Perak",157000.0,,3.0,2.0,14002.0,House
+Johor,620000.0,,3.0,2.0,163.52,House
+"Johor Bahru, Johor",771000.0,33522.0,4.0,4.0,2302.0,Townhouse
+"Kinta, Perak",398000.0,3282.0,3.0,2.0,12132.0,Condo
+"Johor Bahru, Johor",830000.0,27952.0,5.0,5.0,2972.0,House
+"Seberang Perai Utara, Pulau Pinang",330000.0,37002.0,3.0,2.0,89.182,House
+"Johor Bahru, Johor",8800000.0,125002.0,5.0,5.0,7042.0,Villa
+"Kinta, Perak",235000.0,3522.0,2.0,2.0,6672.0,Condo
+"Kinta, Perak",800000.0,2502.0,4.0,4.0,32002.0,House
+"Kinta, Perak",450000.0,2732.0,4.0,3.0,16502.0,House
+"Kinta, Perak",338000.0,2822.0,4.0,3.0,12002.0,House
+"Johor Bahru, Johor",2600000.0,4262.0,38.0,38.0,61002.0,Commercial
+"Kinta, Perak",580000.0,3302.0,5.0,4.0,17602.0,House
+"Kinta, Perak",193000.0,2182.0,3.0,2.0,8842.0,Condo
+"Kinta, Perak",338000.0,1352.0,4.0,2.0,25082.0,House
+"Kinta, Perak",378000.0,2982.0,4.0,3.0,12702.0,House
+"Kinta, Perak",450000.0,3212.0,4.0,3.0,14002.0,House
+"Kinta, Perak",368000.0,3412.0,4.0,2.0,10802.0,House
+"Kinta, Perak",152000.0,1692.0,4.0,2.0,8992.0,Apartment
+"Kinta, Perak",389000.0,2592.0,4.0,4.0,15002.0,House
+"Kinta, Perak",258000.0,2152.0,3.0,2.0,12002.0,House
+"Kinta, Perak",498000.0,1622.0,4.0,4.0,30802.0,House
+"Kinta, Perak",350000.0,2272.0,3.0,2.0,15402.0,House
+"Kinta, Perak",268000.0,1732.0,3.0,2.0,15502.0,House
+"Kinta, Perak",420000.0,3002.0,4.0,3.0,14002.0,House
+"Kinta, Perak",278000.0,2062.0,3.0,2.0,13502.0,House
+"Kinta, Perak",220000.0,2292.0,3.0,2.0,9602.0,House
+"Kinta, Perak",750000.0,3572.0,6.0,5.0,21002.0,House
+"Johor Bahru, Johor",488000.0,27892.0,4.0,,1752.0,House
+"Kinta, Perak",243000.0,2032.0,3.0,1.0,12002.0,House
+"Kinta, Perak",280000.0,2592.0,3.0,2.0,10802.0,House
+"Kinta, Perak",180000.0,2122.0,3.0,2.0,8502.0,Apartment
+"Johor Bahru, Johor",2500000.0,,5.0,5.0,,Villa
+"Kinta, Perak",420000.0,3822.0,4.0,3.0,11002.0,House
+"Kinta, Perak",480000.0,3102.0,4.0,3.0,15502.0,House
+"Johor Bahru, Johor",348000.0,34802.0,3.0,,1002.0,Apartment
+"Johor Bahru, Johor",898000.0,,4.0,4.0,,House
+"Kinta, Perak",380000.0,2972.0,4.0,3.0,12802.0,House
+"Kuala Lumpur, Kuala Lumpur",478000.0,,2.0,1.0,,Condo
+"Johor Bahru, Johor",580000.0,37662.0,5.0,,1542.0,House
+"Kinta, Perak",600000.0,2862.0,6.0,4.0,21002.0,House
+"Johor Bahru, Johor",580000.0,32222.0,5.0,,1802.0,House
+"Johor Bahru, Johor",1280000.0,2242.0,,8.0,57202.0,Commercial
+"Sepang, Selangor",197000.0,,2.0,1.0,,Condo
+"Sepang, Selangor",225000.0,,2.0,2.0,,Condo
+"Sepang, Selangor",225000.0,,2.0,2.0,,Condo
+"Putrajaya, Putrajaya",400000.0,,3.0,2.0,,Condo
+"Petaling, Selangor",592200.0,,3.0,3.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",430000.0,,3.0,2.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",430000.0,,3.0,2.0,,Condo
+"Putrajaya, Putrajaya",592200.0,,3.0,2.0,,Condo
+"Sepang, Selangor",230000.0,,2.0,1.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",1100000.0,,4.0,3.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",1000000.0,,4.0,3.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",1100000.0,,4.0,3.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",1000000.0,,4.0,3.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",592200.0,,3.0,2.0,,Condo
+"Johor Bahru, Johor",768000.0,,4.0,4.0,,House
+"Kuala Lumpur, Kuala Lumpur",1600000.0,,2.0,2.0,,Hotel / Resort
+"Johor Bahru, Johor",1688000.0,52352.0,,,322.472,Commercial
+"Sepang, Selangor",250000.0,,2.0,1.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",1600000.0,,2.0,2.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",1000000.0,,4.0,3.0,,Condo
+"Kuala Langat, Selangor",450000.0,,4.0,3.0,,House
+"Kuala Langat, Selangor",470000.0,,4.0,3.0,,House
+"Kuala Langat, Selangor",470000.0,,4.0,3.0,,House
+"Kuala Langat, Selangor",450000.0,,4.0,3.0,,House
+"Kinta, Perak",288000.0,2622.0,,1.0,11002.0,Commercial
+Johor,360000.0,,3.0,2.0,,House
+"Johor Bahru, Johor",3113550.0,50302.0,,,6192.0,Commercial
+"Johor Bahru, Johor",1688000.0,52352.0,,,322.472,Commercial
+"Pontian, Johor",8811756.0,,,,454802.0,
+"Kinta, Perak",218800.0,21452.0,4.0,2.0,1022.0,House
+"Johor Bahru, Johor",538000.0,,3.0,2.0,1302.0,House
+"Johor Bahru, Johor",1280000.0,5122.0,6.0,,25002.0,House
+"Johor Bahru, Johor",568000.0,43692.0,3.0,,1302.0,House
+Johor,650000.0,42212.0,5.0,,1542.0,House
+"Sepang, Selangor",250000.0,,,,,Condo
+"Johor Bahru, Johor",1400000.0,,4.0,3.0,31162.0,House
+"Johor Bahru, Johor",1400000.0,51852.0,5.0,4.0,2702.0,House
+"Johor Bahru, Johor",1400000.0,51852.0,5.0,4.0,2702.0,House
+"Sepang, Selangor",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Johor Bahru, Johor",1050000.0,44682.0,5.0,3.0,2352.0,House
+"Johor Bahru, Johor",1050000.0,44682.0,5.0,3.0,2352.0,House
+"Johor Bahru, Johor",738000.0,40112.0,4.0,3.0,1842.0,House
+"Johor Bahru, Johor",1250000.0,38882.0,5.0,6.0,321.52,House
+"Johor Bahru, Johor",690000.0,28402.0,4.0,5.0,242.932,Townhouse
+"Sepang, Selangor",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Johor Bahru, Johor",1200000.0,32262.0,5.0,4.0,3722.0,House
+"Johor Bahru, Johor",697000.0,227332.0,1.0,1.0,30.662,Serviced Apartment
+"Johor Bahru, Johor",995000.0,53782.0,4.0,3.0,1852.0,House
+"Johor Bahru, Johor",995000.0,53782.0,4.0,3.0,1852.0,House
+"Johor Bahru, Johor",408000.0,,2.0,,23002.0,House
+"Johor Bahru, Johor",348000.0,3282.0,3.0,,10602.0,Serviced Apartment
+"Johor Bahru, Johor",618000.0,26872.0,4.0,3.0,2302.0,House
+"Johor Bahru, Johor",508000.0,47042.0,4.0,,1082.0,House
+"Johor Bahru, Johor",410000.0,38322.0,3.0,2.0,1072.0,Apartment
+"Sepang, Selangor",210000.0,,2.0,1.0,,Serviced Apartment
+"Muar, Johor",468000.0,32712.0,3.0,2.0,143.072,House
+"Johor Bahru, Johor",550000.0,3932.0,3.0,,14002.0,House
+"Sepang, Selangor",230000.0,,2.0,1.0,,Serviced Apartment
+Johor,778000.0,,5.0,5.0,32002.0,House
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",380000.0,31462.0,5.0,3.0,120.772,Condo
+"Sepang, Selangor",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",380000.0,31462.0,5.0,3.0,120.772,Condo
+"Sepang, Selangor",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Sepang, Selangor",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,112.0,2.0,1.0,213672.0,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Ulu Langat, Selangor",300000.0,33572.0,3.0,2.0,89.372,Condo
+"Ulu Langat, Selangor",300000.0,33572.0,3.0,2.0,89.372,Condo
+"Sepang, Selangor",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Sepang, Selangor",300000.0,33572.0,3.0,2.0,89.372,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Ulu Langat, Selangor",300000.0,33572.0,3.0,2.0,89.372,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Sepang, Selangor",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Johor Bahru, Johor",590000.0,38492.0,4.0,3.0,153.282,House
+"Johor Bahru, Johor",620000.0,51672.0,4.0,,1202.0,House
+"Sepang, Selangor",225000.0,,2.0,2.0,,Condo
+"Sepang, Selangor",225000.0,,2.0,2.0,,Condo
+"Sepang, Selangor",225000.0,,2.0,2.0,,Condo
+"Sepang, Selangor",210000.0,,1.0,1.0,,Condo
+"Sepang, Selangor",210000.0,,1.0,1.0,,Condo
+"Sepang, Selangor",210000.0,,2.0,1.0,,Condo
+"Sepang, Selangor",230000.0,,2.0,1.0,,Condo
+"Sepang, Selangor",210000.0,,2.0,1.0,,Serviced Apartment
+"Sepang, Selangor",230000.0,,2.0,1.0,,Condo
+"Sepang, Selangor",230000.0,,2.0,1.0,,Condo
+"Sepang, Selangor",230000.0,,1.0,1.0,,Condo
+"Sepang, Selangor",230000.0,,2.0,1.0,,Condo
+"Sepang, Selangor",210000.0,,1.0,1.0,,Condo
+"Sepang, Selangor",210000.0,,1.0,1.0,,Serviced Apartment
+"Sepang, Selangor",250000.0,,2.0,1.0,,Condo
+"Sepang, Selangor",225000.0,,2.0,1.0,,Condo
+"Putrajaya, Putrajaya",210000.0,,2.0,1.0,,Serviced Apartment
+"Putrajaya, Putrajaya",210000.0,,2.0,1.0,,Serviced Apartment
+"Johor Bahru, Johor",280000.0,2692.0,4.0,2.0,10402.0,House
+"Johor Bahru, Johor",168000.0,32882.0,2.0,1.0,51.092,Apartment
+Johor,480000.0,2672.0,4.0,,18002.0,House
+"Ulu Langat, Selangor",197000.0,,2.0,1.0,,Condo
+"Sepang, Selangor",197000.0,,2.0,1.0,,Condo
+"Johor Bahru, Johor",550000.0,30902.0,3.0,2.0,1782.0,House
+"Sepang, Selangor",197000.0,,2.0,1.0,,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Johor Bahru, Johor",740000.0,37952.0,4.0,4.0,1952.0,House
+"Johor Bahru, Johor",588000.0,46302.0,3.0,2.0,1272.0,House
+"Sepang, Selangor",210000.0,,2.0,1.0,,Condo
+"Sepang, Selangor",225000.0,,2.0,1.0,,Condo
+"Sepang, Selangor",230000.0,,2.0,1.0,,Condo
+"Sepang, Selangor",210000.0,,2.0,1.0,,Condo
+"Johor Bahru, Johor",118000.0,25652.0,2.0,1.0,462.0,Apartment
+"Johor Bahru, Johor",948000.0,54172.0,4.0,4.0,1752.0,House
+"Johor Bahru, Johor",950000.0,35322.0,4.0,4.0,2692.0,House
+"Johor Bahru, Johor",950000.0,35322.0,4.0,4.0,2692.0,House
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",380000.0,31462.0,4.0,3.0,120.772,Condo
+"Sepang, Selangor",380000.0,31462.0,4.0,3.0,120.772,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",300000.0,33572.0,3.0,2.0,89.372,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",380000.0,31462.0,5.0,3.0,120.772,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,55022.0,,,41.82,Condo
+"Johor Bahru, Johor",290000.0,59232.0,1.0,1.0,48.962,Condo
+"Johor Bahru, Johor",680000.0,151112.0,1.0,1.0,452.0,Condo
+"Johor Bahru, Johor",730000.0,51052.0,3.0,2.0,1432.0,House
+"Sepang, Selangor",380000.0,31462.0,4.0,3.0,120.772,Condo
+"Sepang, Selangor",380000.0,31462.0,4.0,3.0,120.772,Condo
+"Putrajaya, Putrajaya",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Johor Bahru, Johor",510000.0,31882.0,3.0,,1602.0,House
+"Putrajaya, Putrajaya",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",380000.0,31462.0,5.0,3.0,120.772,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Sepang, Selangor",300000.0,33572.0,3.0,2.0,89.372,Condo
+"Sepang, Selangor",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Sepang, Selangor",380000.0,31462.0,5.0,3.0,120.772,Condo
+"Putrajaya, Putrajaya",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Putrajaya, Putrajaya",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Petaling, Selangor",400000.0,,3.0,2.0,,Condo
+"Johor Bahru, Johor",360000.0,31862.0,3.0,3.0,1132.0,Condo
+"Petaling, Selangor",592200.0,,3.0,2.0,,Condo
+"Sepang, Selangor",340000.0,,4.0,2.0,,Condo
+"Sepang, Selangor",340000.0,,4.0,2.0,,Condo
+"Seremban, Negeri Sembilan",320000.0,,4.0,3.0,,Condo
+"Sepang, Selangor",340000.0,,4.0,2.0,,Condo
+"Sepang, Selangor",340000.0,,4.0,2.0,,Condo
+"Sepang, Selangor",340000.0,,4.0,2.0,,Condo
+"Seremban, Negeri Sembilan",320000.0,,4.0,2.0,,Condo
+"Sepang, Selangor",230000.0,,2.0,1.0,,Condo
+"Johor Bahru, Johor",380000.0,34552.0,5.0,3.0,109.992,Condo
+"Sepang, Selangor",300000.0,33572.0,3.0,2.0,89.372,Condo
+"Kuala Lumpur, Kuala Lumpur",1000000.0,,4.0,3.0,,Condo
+"Sepang, Selangor",380000.0,31462.0,4.0,3.0,120.772,Condo
+"Petaling, Selangor",660000.0,45832.0,4.0,3.0,1442.0,House
+"Putrajaya, Putrajaya",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Petaling, Selangor",430000.0,,3.0,2.0,,Condo
+"Petaling, Selangor",400000.0,,3.0,2.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",420000.0,51972.0,3.0,2.0,80.822,Condo
+"Kuala Lumpur, Kuala Lumpur",420000.0,51972.0,3.0,2.0,80.822,Condo
+"Kuala Lumpur, Kuala Lumpur",420000.0,51972.0,3.0,2.0,80.822,Condo
+"Kuala Lumpur, Kuala Lumpur",420000.0,51972.0,3.0,2.0,80.822,Condo
+"Kuala Lumpur, Kuala Lumpur",420000.0,51972.0,3.0,2.0,80.822,Condo
+"Kuala Lumpur, Kuala Lumpur",1000000.0,,4.0,3.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",1000000.0,,4.0,3.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",1000000.0,,4.0,3.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",1000000.0,,4.0,3.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",1000000.0,,4.0,3.0,,Condo
+"Johor Bahru, Johor",2450000.0,52802.0,8.0,8.0,4642.0,House
+"Johor Bahru, Johor",958000.0,4352.0,4.0,3.0,22002.0,Villa
+"Johor Bahru, Johor",345000.0,3082.0,3.0,,11202.0,House
+"Johor Bahru, Johor",468000.0,,4.0,3.0,,House
+"Petaling, Selangor",1200000.0,43642.0,5.0,5.0,2752.0,Condo
+"Johor Bahru, Johor",688000.0,34752.0,4.0,3.0,1982.0,House
+"Johor Bahru, Johor",688000.0,34752.0,4.0,3.0,1982.0,House
+"Johor Bahru, Johor",630000.0,34812.0,4.0,3.0,1812.0,House
+"Johor Bahru, Johor",630000.0,34812.0,4.0,3.0,1812.0,House
+"Kuala Lumpur, Kuala Lumpur",430000.0,,3.0,2.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",400000.0,,3.0,2.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",700000.0,,4.0,3.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",1000000.0,,4.0,3.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",700000.0,,4.0,3.0,,Condo
+"Johor Bahru, Johor",1500000.0,50512.0,5.0,5.0,2972.0,House
+"Johor Bahru, Johor",435000.0,,4.0,3.0,,House
+"Kuala Lumpur, Kuala Lumpur",700000.0,,4.0,3.0,,Condo
+"Johor Bahru, Johor",3250000.0,59852.0,6.0,7.0,5432.0,Villa
+"Johor Bahru, Johor",3250000.0,59852.0,6.0,6.0,5432.0,Villa
+"Johor Bahru, Johor",1100000.0,59202.0,4.0,3.0,185.82,Villa
+"Kuala Lumpur, Kuala Lumpur",430000.0,,3.0,2.0,,Condo
+"Sepang, Selangor",225000.0,,,,,Condo
+"Sepang, Selangor",225000.0,,,,,Condo
+"Johor Bahru, Johor",738000.0,38642.0,4.0,3.0,1912.0,House
+"Kuala Lumpur, Kuala Lumpur",544000.0,,1.0,1.0,,Condo
+"Johor Bahru, Johor",928000.0,36392.0,4.0,3.0,2552.0,House
+"Johor Bahru, Johor",928000.0,36392.0,4.0,3.0,2552.0,House
+"Kuala Lumpur, Kuala Lumpur",567000.0,,1.0,1.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",532000.0,,1.0,1.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",685000.0,,2.0,1.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",862000.0,,2.0,1.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",719000.0,,2.0,1.0,,Condo
+"Putrajaya, Putrajaya",400000.0,,3.0,2.0,,Condo
+"Putrajaya, Putrajaya",592200.0,,3.0,3.0,,Condo
+"Putrajaya, Putrajaya",340000.0,,4.0,2.0,,Condo
+"Putrajaya, Putrajaya",210000.0,,1.0,1.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",696000.0,,2.0,1.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",575000.0,,2.0,1.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",707000.0,,2.0,1.0,,Condo
+"Johor Bahru, Johor",578000.0,44462.0,5.0,,1302.0,House
+"Kuala Lumpur, Kuala Lumpur",612000.0,,2.0,1.0,,Condo
+"Kuala Lumpur, Kuala Lumpur",568000.0,,2.0,1.0,,Condo
+"Johor Bahru, Johor",2050000.0,45972.0,,6.0,445.922,Commercial
+"Putrajaya, Putrajaya",340000.0,,4.0,2.0,,Condo
+"Putrajaya, Putrajaya",340000.0,,4.0,2.0,,Condo
+"Putrajaya, Putrajaya",210000.0,,1.0,1.0,,Condo
+"Johor Bahru, Johor",1200000.0,35882.0,,2.0,334.442,Commercial
+"Johor Bahru, Johor",2750000.0,17862.0,,2.0,15402.0,Commercial
+"Johor Bahru, Johor",5600000.0,,1.0,6.0,,Commercial
+"Kuala Langat, Selangor",450000.0,,4.0,3.0,,House
+"Kuala Lumpur, Kuala Lumpur",17139000.0,162072.0,,,1057.482,Office
+"Kuala Lumpur, Kuala Lumpur",1655000.0,159202.0,,,103.962,Office
+"Kuala Lumpur, Kuala Lumpur",1774000.0,161292.0,,,109.992,Office
+"Kuala Lumpur, Kuala Lumpur",10050000.0,97572.0,,,1029.982,Office
+"Kuala Lumpur, Kuala Lumpur",15700000.0,165102.0,,,950.922,Office
+"Kuala Lumpur, Kuala Lumpur",10940000.0,100372.0,,,10902.0,Office
+"Kuala Lumpur, Kuala Lumpur",11090000.0,97972.0,,,1131.992,Office
+"Kuala Lumpur, Kuala Lumpur",2048200.0,118412.0,,,172.982,Office
+"Kuala Lumpur, Kuala Lumpur",957950.0,123782.0,,,77.392,Office
+"Kuala Lumpur, Kuala Lumpur",5592000.0,169462.0,,,329.982,Office
+"Kuala Lumpur, Kuala Lumpur",1679000.0,166272.0,,,100.982,Office
+"Kuala Lumpur, Kuala Lumpur",4284800.0,68892.0,,,621.972,Office
+"Kuala Lumpur, Kuala Lumpur",10100000.0,100402.0,,,1006.012,Office
+"Johor Bahru, Johor",1050000.0,,5.0,5.0,,Villa
+"Kuala Lumpur, Kuala Lumpur",197000.0,,2.0,1.0,,Condo
+Johor,580000.0,,,4.0,,Commercial
+"Klang, Selangor",14262504.0,,,,18928.382,
+"Klang, Selangor",31889269.0,,,,42321.622,
+"Johor Bahru, Johor",990000.0,61812.0,,,160.162,Commercial
+"Klang, Selangor",17626764.0,,,,23393.232,
+"Johor Bahru, Johor",2500000.0,54702.0,,,4572.0,Commercial
+"Johor Bahru, Johor",435000.0,,,2.0,,Commercial
+"Johor Bahru, Johor",5000000.0,,,,5411.972,
+"Johor Bahru, Johor",2800000.0,50702.0,,,552.312,Commercial
+"Johor Bahru, Johor",4224690.0,,,,43612.0,
+"Kuala Lumpur, Kuala Lumpur",2100000.0,57072.0,,,3682.0,Commercial
+"Pontian, Johor",6783722.0,,,,331702.0,
+"Johor Bahru, Johor",9852727.0,,,,16642.72,
+"Seremban, Negeri Sembilan",350000.0,1942.0,4.0,4.0,18002.0,House
+"Kuala Lumpur, Kuala Lumpur",510000.0,5002.0,3.0,2.0,10212.0,Apartment
+"Kinta, Perak",448800.0,28772.0,4.0,4.0,1562.0,House
+"Kinta, Perak",308800.0,33572.0,4.0,2.0,922.0,House
+"Kinta, Perak",478000.0,26852.0,4.0,4.0,1782.0,House
+"Kinta, Perak",195500.0,26422.0,3.0,2.0,742.0,House
+"Kinta, Perak",195500.0,26422.0,3.0,2.0,742.0,House
+"Kinta, Perak",278880.0,30022.0,4.0,2.0,92.92,House
+"Kinta, Perak",448800.0,28772.0,4.0,4.0,1562.0,House
+"Kinta, Perak",408800.0,22972.0,4.0,4.0,1782.0,House
+"Penampang, Sabah",811170.0,,5.0,3.0,2292.0,House
+Johor,1190000.0,3502.0,4.0,4.0,34002.0,House
+"Kinta, Perak",328800.0,35352.0,4.0,2.0,932.0,House
+"Kinta, Perak",478000.0,26852.0,4.0,4.0,1782.0,House
+"Papar, Sabah",290000.0,36252.0,3.0,2.0,802.0,House
+"Kinta, Perak",520000.0,28112.0,5.0,4.0,1852.0,House
+"Kinta, Perak",208000.0,17222.0,3.0,2.0,120.772,Apartment
+"Kinta, Perak",298800.0,32132.0,4.0,2.0,932.0,House
+"Kinta, Perak",478000.0,26852.0,4.0,4.0,1782.0,House
+"Ulu Langat, Selangor",800000.0,3902.0,5.0,4.0,20522.0,House
+"Keningau, Sabah",360000.0,22502.0,3.0,2.0,1602.0,House
+"Ulu Langat, Selangor",164000.0,2292.0,3.0,1.0,7152.0,Apartment
+"Kuala Muda, Kedah",380000.0,22752.0,4.0,3.0,1672.0,House
+"Kinta, Perak",358800.0,21362.0,4.0,4.0,1682.0,House
+"Kinta, Perak",378000.0,42472.0,3.0,2.0,892.0,House
+"Penampang, Sabah",2278888.0,46592.0,5.0,6.0,489.132,House
+"Kinta, Perak",628000.0,24142.0,5.0,4.0,260.132,House
+"Gombak, Selangor",837000.0,4742.0,4.0,3.0,17642.0,House
+"Kinta, Perak",438000.0,27382.0,4.0,4.0,1602.0,House
+"Ulu Selangor, Selangor",580000.0,2422.0,4.0,3.0,24002.0,House
+"Kuala Lumpur, Kuala Lumpur",828000.0,37142.0,4.0,4.0,222.962,House
+"Gombak, Selangor",760000.0,38962.0,4.0,3.0,195.092,House
+"Kuala Lumpur, Kuala Lumpur",1080000.0,45062.0,4.0,4.0,239.682,House
+"Kuala Lumpur, Kuala Lumpur",1188000.0,204622.0,1.0,1.0,58.062,Condo
+"Kinta, Perak",358000.0,38542.0,4.0,2.0,92.92,House
+"Kuala Lumpur, Kuala Lumpur",768000.0,39372.0,4.0,3.0,195.092,House
+"Kuala Lumpur, Kuala Lumpur",1150000.0,47612.0,4.0,4.0,241.542,House
+"Kuala Lumpur, Kuala Lumpur",828000.0,37142.0,4.0,4.0,222.962,House
+"Gombak, Selangor",820000.0,36782.0,4.0,4.0,222.962,House
+"Kuala Lumpur, Kuala Lumpur",545000.0,54572.0,3.0,2.0,99.872,Condo
+"Kinta, Perak",218800.0,21412.0,4.0,2.0,102.192,House
+"Gombak, Selangor",828000.0,37142.0,4.0,4.0,222.962,House
+"Alor Gajah, Melaka",900000.0,295962.0,1.0,1.0,30.412,Condo
+"Kuala Lumpur, Kuala Lumpur",928000.0,41622.0,4.0,4.0,222.962,House
+"Gombak, Selangor",828800.0,38792.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",1430000.0,207192.0,1.0,1.0,69.022,Condo
+"Kuala Lumpur, Kuala Lumpur",420000.0,28262.0,3.0,2.0,148.642,Condo
+"Johor Bahru, Johor",468000.0,5022.0,3.0,2.0,9332.0,Condo
+"Kuala Lumpur, Kuala Lumpur",4200000.0,126892.0,4.0,5.0,3312.0,Condo
+"Gombak, Selangor",780000.0,39982.0,4.0,4.0,195.092,House
+"Kuala Lumpur, Kuala Lumpur",520040.0,45222.0,3.0,2.0,115.012,Condo
+"Gombak, Selangor",768800.0,38492.0,4.0,3.0,199.732,House
+"Gombak, Selangor",828800.0,38792.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",475000.0,18942.0,3.0,3.0,250.832,Townhouse
+"Kuala Lumpur, Kuala Lumpur",828000.0,37142.0,4.0,4.0,222.962,House
+"Kuala Lumpur, Kuala Lumpur",8800000.0,147162.0,4.0,5.0,5982.0,House
+"Kuala Lumpur, Kuala Lumpur",812000.0,54632.0,4.0,4.0,148.642,House
+"Kuala Lumpur, Kuala Lumpur",1880000.0,91652.0,5.0,5.0,205.122,Condo
+"Kuala Lumpur, Kuala Lumpur",900000.0,38752.0,5.0,5.0,232.252,House
+"Kuala Lumpur, Kuala Lumpur",900000.0,38752.0,5.0,5.0,232.252,House
+"Gombak, Selangor",5600000.0,82172.0,8.0,8.0,681.512,House
+"Kuala Lumpur, Kuala Lumpur",760000.0,38962.0,4.0,3.0,195.092,House
+"Gombak, Selangor",828008.0,38752.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",470000.0,18742.0,3.0,3.0,250.832,Townhouse
+"Kuala Lumpur, Kuala Lumpur",828000.0,37142.0,4.0,4.0,222.962,House
+"Kuala Lumpur, Kuala Lumpur",740000.0,37932.0,4.0,3.0,195.092,House
+"Kuala Lumpur, Kuala Lumpur",1870000.0,181502.0,1.0,2.0,103.032,Condo
+"Gombak, Selangor",828000.0,37142.0,4.0,4.0,222.962,House
+"Kuala Lumpur, Kuala Lumpur",928000.0,41622.0,4.0,4.0,222.962,House
+"Kinta, Perak",215800.0,26002.0,3.0,2.0,832.0,House
+"Gombak, Selangor",747000.0,38292.0,4.0,3.0,195.092,House
+"Gombak, Selangor",828800.0,38792.0,4.0,4.0,213.672,House
+"Sepang, Selangor",449000.0,40452.0,3.0,3.0,1112.0,Condo
+"Sepang, Selangor",449000.0,40452.0,3.0,3.0,1112.0,Condo
+Johor,630000.0,4092.0,4.0,3.0,15402.0,House
+"Kinta, Perak",620000.0,33702.0,3.0,2.0,183.952,House
+"Ulu Selangor, Selangor",2000000.0,3642.0,5.0,6.0,55002.0,House
+"Kuala Kangsar, Perak",278880.0,29992.0,4.0,2.0,932.0,House
+"Johor Bahru, Johor",735000.0,54302.0,4.0,4.0,135.362,Condo
+"Johor Bahru, Johor",315000.0,49212.0,2.0,1.0,64.012,Condo
+"Johor Bahru, Johor",335000.0,18202.0,4.0,2.0,184.032,Condo
+"Gombak, Selangor",1080000.0,59682.0,4.0,3.0,180.972,Condo
+"Johor Bahru, Johor",1030000.0,4192.0,5.0,5.0,24572.0,House
+"Kinta, Perak",288000.0,22962.0,3.0,2.0,125.422,House
+"Ulu Langat, Selangor",895000.0,3582.0,5.0,3.0,25002.0,House
+"Johor Bahru, Johor",310000.0,35242.0,3.0,2.0,87.982,Apartment
+"Kuala Lumpur, Kuala Lumpur",3960000.0,319302.0,3.0,3.0,124.022,Condo
+"Gombak, Selangor",465000.0,41372.0,3.0,3.0,112.412,Condo
+"Kuala Lumpur, Kuala Lumpur",899000.0,58052.0,4.0,3.0,154.862,Condo
+"Putrajaya, Putrajaya",3850000.0,4812.0,9.0,9.0,80002.0,House
+"Kuala Lumpur, Kuala Lumpur",1956250.0,134552.0,4.0,3.0,145.392,Condo
+"Johor Bahru, Johor",1130000.0,4752.0,4.0,3.0,23802.0,House
+"Kinta, Perak",358000.0,21412.0,4.0,3.0,167.232,House
+"Kinta, Perak",538000.0,24452.0,4.0,4.0,2202.0,House
+"Petaling, Selangor",1591800.0,128352.0,2.0,2.0,124.022,Condo
+"Petaling, Selangor",980000.0,108312.0,2.0,2.0,90.482,Condo
+"Kuala Lumpur, Kuala Lumpur",890000.0,72142.0,3.0,3.0,123.372,Condo
+"Johor Bahru, Johor",350000.0,57262.0,2.0,2.0,61.132,Condo
+"Kuala Lumpur, Kuala Lumpur",3960000.0,129172.0,3.0,5.0,306.572,Condo
+"Kuala Lumpur, Kuala Lumpur",610000.0,39922.0,3.0,2.0,152.822,Condo
+"Johor Bahru, Johor",370000.0,3952.0,3.0,2.0,9372.0,Condo
+"Kuala Lumpur, Kuala Lumpur",2590000.0,103222.0,4.0,5.0,250.922,Condo
+"Johor Bahru, Johor",328000.0,35102.0,3.0,2.0,93.462,Apartment
+"Gombak, Selangor",1200000.0,5172.0,5.0,5.0,23232.0,House
+"Johor Bahru, Johor",295000.0,24002.0,3.0,2.0,122.912,Condo
+"Kuala Lumpur, Kuala Lumpur",298000.0,37652.0,3.0,2.0,79.152,Apartment
+"Johor Bahru, Johor",1220000.0,35492.0,5.0,5.0,343.732,House
+"Kinta, Perak",398000.0,14852.0,3.0,2.0,268.022,House
+"Kinta, Perak",350000.0,26922.0,4.0,3.0,1302.0,House
+"Kinta, Perak",330000.0,23062.0,3.0,2.0,143.12,House
+"Kuala Kangsar, Perak",268000.0,17482.0,3.0,2.0,153.32,House
+"Kinta, Perak",338000.0,21762.0,4.0,3.0,155.342,House
+"Kuala Lumpur, Kuala Lumpur",1138000.0,97922.0,3.0,3.0,116.222,Condo
+"Kuala Lumpur, Kuala Lumpur",420000.0,45352.0,3.0,2.0,92.622,Condo
+"Ulu Langat, Selangor",320000.0,35962.0,3.0,2.0,892.0,Apartment
+"Kuala Lumpur, Kuala Lumpur",2200000.0,87712.0,3.0,2.0,250.832,Condo
+"Gombak, Selangor",5000000.0,82802.0,6.0,7.0,603.852,House
+"Sepang, Selangor",1800000.0,60322.0,5.0,6.0,298.392,House
+"Johor Bahru, Johor",280000.0,35672.0,3.0,2.0,78.52,Apartment
+"Kuala Lumpur, Kuala Lumpur",530000.0,51442.0,3.0,2.0,103.032,Condo
+"Kuala Lumpur, Kuala Lumpur",1794193.0,93172.0,4.0,4.0,192.582,Condo
+"Kuala Lumpur, Kuala Lumpur",850000.0,50832.0,4.0,3.0,167.222,Condo
+"Seremban, Negeri Sembilan",332683.0,14112.0,4.0,3.0,235.782,House
+"Kuala Lumpur, Kuala Lumpur",899000.0,58052.0,4.0,3.0,154.862,Condo
+"Kinta, Perak",318000.0,31992.0,3.0,2.0,99.42,Condo
+"Johor Bahru, Johor",450000.0,43722.0,3.0,2.0,102.932,Condo
+"Kuala Lumpur, Kuala Lumpur",799000.0,64432.0,3.0,3.0,124.022,Condo
+"Johor Bahru, Johor",348000.0,50622.0,2.0,2.0,68.752,Condo
+"Johor Bahru, Johor",558000.0,2792.0,4.0,4.0,20002.0,House
+"Kuala Lumpur, Kuala Lumpur",550000.0,48732.0,3.0,2.0,112.872,Condo
+"Kuala Lumpur, Kuala Lumpur",899000.0,58052.0,4.0,3.0,154.862,Condo
+"Kuala Lumpur, Kuala Lumpur",1000000.0,87512.0,3.0,3.0,114.272,Condo
+"Johor Bahru, Johor",1580000.0,4792.0,5.0,5.0,33002.0,House
+Johor,338000.0,3522.0,4.0,3.0,9602.0,House
+"Kota Kinabalu, Sabah",500000.0,38642.0,3.0,2.0,129.412,House
+"Kuala Lumpur, Kuala Lumpur",4000000.0,83982.0,6.0,6.0,476.32,House
+"Ulu Langat, Selangor",1150000.0,35232.0,5.0,5.0,326.452,House
+"Gombak, Selangor",1500000.0,6002.0,4.0,5.0,25002.0,House
+"Kuala Lumpur, Kuala Lumpur",260000.0,33122.0,3.0,2.0,78.52,Apartment
+"Ulu Langat, Selangor",1450000.0,60032.0,4.0,4.0,241.542,House
+"Petaling, Selangor",188000.0,23752.0,3.0,2.0,79.152,Apartment
+"Putrajaya, Putrajaya",580000.0,63322.0,3.0,2.0,91.62,Condo
+"Petaling, Selangor",400000.0,43942.0,3.0,2.0,91.042,Condo
+"Johor Bahru, Johor",598000.0,33532.0,5.0,3.0,178.372,House
+"Petaling, Selangor",400000.0,50652.0,3.0,2.0,78.972,Apartment
+"Petaling, Selangor",550000.0,41692.0,4.0,3.0,131.922,Condo
+"Kuala Lumpur, Kuala Lumpur",799000.0,64432.0,3.0,3.0,124.022,Condo
+"Kuala Lumpur, Kuala Lumpur",450000.0,46572.0,3.0,2.0,96.622,Condo
+"Klang, Selangor",200000.0,26322.0,3.0,2.0,75.992,Apartment
+"Johor Bahru, Johor",410000.0,45042.0,3.0,2.0,91.042,Apartment
+"Kuala Lumpur, Kuala Lumpur",530000.0,46962.0,3.0,2.0,112.872,Condo
+"Kuala Lumpur, Kuala Lumpur",1000000.0,61652.0,4.0,4.0,162.22,Condo
+"Johor Bahru, Johor",280000.0,31732.0,3.0,2.0,88.252,Condo
+"Kuala Lumpur, Kuala Lumpur",550000.0,48732.0,3.0,2.0,112.872,Condo
+"Johor Bahru, Johor",535000.0,33882.0,4.0,3.0,157.932,House
+"Petaling, Selangor",245000.0,24422.0,3.0,2.0,100.332,Apartment
+"Kuala Lumpur, Kuala Lumpur",550000.0,63932.0,3.0,2.0,86.032,Condo
+"Gombak, Selangor",459000.0,3272.0,3.0,2.0,14052.0,Condo
+"Petaling, Selangor",465000.0,37752.0,3.0,2.0,123.192,Condo
+"Petaling, Selangor",1250000.0,120242.0,3.0,2.0,103.962,Condo
+"Petaling, Selangor",249000.0,26352.0,3.0,2.0,94.482,Apartment
+"Kuala Lumpur, Kuala Lumpur",790000.0,47242.0,4.0,3.0,167.222,Condo
+"Kuala Lumpur, Kuala Lumpur",500000.0,48842.0,3.0,2.0,102.382,Condo
+"Petaling, Selangor",5600000.0,82172.0,7.0,7.0,681.512,House
+"Petaling, Selangor",450000.0,87122.0,2.0,1.0,51.652,Condo
+"Johor Bahru, Johor",1000000.0,71762.0,4.0,3.0,139.352,Serviced Apartment
+"Kuala Lumpur, Kuala Lumpur",380000.0,36752.0,3.0,2.0,103.42,Condo
+"Ulu Langat, Selangor",1700000.0,51852.0,5.0,4.0,327.842,House
+"Kuala Lumpur, Kuala Lumpur",1236800.0,107542.0,3.0,2.0,115.012,Condo
+"Petaling, Selangor",538888.0,33692.0,4.0,3.0,159.972,Condo
+"Johor Bahru, Johor",528000.0,48582.0,4.0,3.0,108.692,House
+"Petaling, Selangor",3000000.0,5482.0,8.0,8.0,54752.0,House
+"Petaling, Selangor",399000.0,31192.0,3.0,2.0,127.922,Apartment
+"Petaling, Selangor",430000.0,46432.0,3.0,2.0,92.622,Condo
+"Klang, Selangor",549000.0,37882.0,4.0,3.0,144.922,House
+"Petaling, Selangor",2500000.0,70822.0,5.0,6.0,353.022,House
+"Petaling, Selangor",1950000.0,55842.0,6.0,7.0,349.212,House
+"Petaling, Selangor",320000.0,37562.0,4.0,2.0,85.192,Condo
+"Johor Bahru, Johor",1880000.0,61732.0,6.0,6.0,304.532,House
+"Kuala Lumpur, Kuala Lumpur",670000.0,65562.0,3.0,2.0,102.192,Condo
+"Petaling, Selangor",722536.0,66192.0,3.0,2.0,109.162,Condo
+"Petaling, Selangor",6900000.0,70412.0,6.0,7.0,9802.0,House
+"Ulu Langat, Selangor",1670000.0,35952.0,6.0,6.0,464.52,House
+"Sepang, Selangor",598000.0,47512.0,5.0,3.0,125.882,House
+"Petaling, Selangor",370000.0,36212.0,3.0,2.0,102.192,Condo
+"Klang, Selangor",599000.0,28662.0,4.0,3.0,209.032,House
+"Petaling, Selangor",350000.0,39662.0,3.0,2.0,88.252,Condo
+"Johor Bahru, Johor",530000.0,2882.0,4.0,3.0,18382.0,House
+"Petaling, Selangor",650000.0,48762.0,4.0,3.0,133.312,Condo
+"Kuala Lumpur, Kuala Lumpur",520000.0,43702.0,3.0,2.0,1192.0,Condo
+"Ulu Langat, Selangor",328000.0,41532.0,3.0,2.0,78.972,Apartment
+"Petaling, Selangor",499888.0,31252.0,4.0,3.0,159.972,Condo
+"Johor Bahru, Johor",598000.0,29262.0,4.0,4.0,204.382,House
+"Gombak, Selangor",1250000.0,4512.0,4.0,3.0,27712.0,House
+"Petaling, Selangor",650000.0,38872.0,4.0,3.0,167.222,House
+"Petaling, Selangor",2100000.0,56512.0,6.0,5.0,371.62,House
+"Petaling, Selangor",220000.0,23292.0,3.0,2.0,94.482,Apartment
+"Sepang, Selangor",398000.0,4982.0,3.0,2.0,8002.0,Condo
+"Petaling, Selangor",388000.0,4852.0,3.0,2.0,8002.0,Condo
+"Kinta, Perak",238000.0,25592.0,4.0,2.0,932.0,House
+"Kinta, Perak",338800.0,36432.0,4.0,2.0,932.0,House
+"Putrajaya, Putrajaya",250000.0,44852.0,2.0,2.0,55.742,Condo
+"Seremban, Negeri Sembilan",243000.0,40252.0,2.0,2.0,60.382,Condo
+"Kuala Lumpur, Kuala Lumpur",770000.0,36042.0,4.0,3.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",718000.0,80512.0,3.0,2.0,89.182,Condo
+"Kuala Lumpur, Kuala Lumpur",653000.0,47882.0,3.0,3.0,136.382,Condo
+"Petaling, Selangor",430000.0,33062.0,3.0,3.0,130.062,Condo
+"Petaling, Selangor",750000.0,84992.0,3.0,2.0,88.252,Condo
+"Gombak, Selangor",429000.0,3062.0,3.0,2.0,14002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",460000.0,19422.0,4.0,4.0,236.892,House
+"Putrajaya, Putrajaya",220000.0,47362.0,2.0,2.0,46.452,Condo
+"Kuala Lumpur, Kuala Lumpur",658000.0,41962.0,4.0,3.0,156.822,House
+"Kuala Lumpur, Kuala Lumpur",590000.0,33432.0,3.0,2.0,176.512,Condo
+"Petaling, Selangor",550000.0,33392.0,4.0,3.0,164.712,Condo
+"Gombak, Selangor",840000.0,39312.0,4.0,4.0,213.672,House
+"Petaling, Selangor",730000.0,7852.0,3.0,2.0,9302.0,Condo
+"Kuala Lumpur, Kuala Lumpur",750000.0,7892.0,3.0,2.0,9502.0,Condo
+"Petaling, Selangor",430000.0,33062.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",418000.0,28122.0,3.0,3.0,148.642,Condo
+"Ulu Langat, Selangor",489000.0,40492.0,3.0,3.0,120.772,Condo
+"Ulu Langat, Selangor",518000.0,38382.0,3.0,3.0,134.982,Condo
+"Gombak, Selangor",450000.0,35752.0,3.0,2.0,125.882,Condo
+"Kuala Lumpur, Kuala Lumpur",447000.0,35122.0,3.0,2.0,127.272,Condo
+"Petaling, Selangor",450000.0,35882.0,3.0,3.0,125.412,Condo
+"Gombak, Selangor",430000.0,34162.0,3.0,2.0,125.882,Condo
+"Kuala Lumpur, Kuala Lumpur",1000000.0,69992.0,4.0,3.0,142.882,Condo
+"Kuala Lumpur, Kuala Lumpur",708800.0,82222.0,3.0,2.0,86.212,Condo
+"Barat Daya, Pulau Pinang",650000.0,26842.0,4.0,4.0,242.192,House
+"Kuala Lumpur, Kuala Lumpur",420000.0,3002.0,3.0,2.0,14002.0,Condo
+"Petaling, Selangor",450000.0,35672.0,3.0,2.0,126.162,Condo
+"Petaling, Selangor",230000.0,45022.0,2.0,2.0,51.092,Condo
+"Petaling, Selangor",300000.0,40372.0,2.0,2.0,74.322,Condo
+"Kuala Lumpur, Kuala Lumpur",485000.0,4112.0,3.0,2.0,11802.0,Condo
+"Kuala Lumpur, Kuala Lumpur",500000.0,19222.0,5.0,4.0,260.122,House
+"Kuala Lumpur, Kuala Lumpur",428000.0,33632.0,3.0,2.0,127.272,Condo
+"Petaling, Selangor",750000.0,84992.0,3.0,2.0,88.252,Condo
+"Kuala Lumpur, Kuala Lumpur",705880.0,33772.0,4.0,4.0,209.032,House
+"Kuala Lumpur, Kuala Lumpur",530000.0,47542.0,3.0,3.0,111.482,Condo
+"Ulu Langat, Selangor",500000.0,27052.0,4.0,3.0,184.872,House
+"Petaling, Selangor",748000.0,35012.0,4.0,4.0,213.672,House
+"Putrajaya, Putrajaya",250000.0,44852.0,2.0,2.0,55.742,Condo
+"Kuala Lumpur, Kuala Lumpur",430000.0,33792.0,3.0,2.0,127.272,Condo
+"Petaling, Selangor",717800.0,83082.0,3.0,2.0,86.42,Condo
+"Kuala Lumpur, Kuala Lumpur",670000.0,28852.0,5.0,5.0,232.252,Condo
+"Kuala Lumpur, Kuala Lumpur",840000.0,39312.0,4.0,4.0,213.672,House
+"Petaling, Selangor",443000.0,35322.0,3.0,2.0,125.412,Condo
+"Ulu Langat, Selangor",300000.0,32292.0,3.0,2.0,92.92,Condo
+"Petaling, Selangor",900000.0,38752.0,5.0,5.0,232.252,House
+"Kuala Lumpur, Kuala Lumpur",856800.0,38622.0,4.0,4.0,221.852,House
+"Kuala Lumpur, Kuala Lumpur",600000.0,78762.0,3.0,2.0,76.182,Condo
+"Petaling, Selangor",250000.0,34502.0,2.0,2.0,72.462,Condo
+"Kuala Lumpur, Kuala Lumpur",700000.0,81462.0,3.0,2.0,85.932,Condo
+"Kuala Selangor, Selangor",443000.0,34062.0,3.0,2.0,130.062,Condo
+"Gombak, Selangor",850000.0,39782.0,4.0,4.0,213.672,House
+"Gombak, Selangor",445800.0,35812.0,3.0,2.0,124.492,Condo
+"Kuala Lumpur, Kuala Lumpur",442000.0,33982.0,3.0,2.0,130.062,Condo
+"Petaling, Selangor",430000.0,33062.0,3.0,2.0,130.062,Condo
+"Petaling, Selangor",828000.0,37142.0,4.0,3.0,222.962,House
+"Petaling, Selangor",700000.0,30142.0,5.0,5.0,232.252,Condo
+"Petaling, Selangor",920000.0,36682.0,5.0,5.0,250.832,House
+"Petaling, Selangor",780000.0,34772.0,5.0,5.0,224.352,Condo
+"Kuala Lumpur, Kuala Lumpur",750800.0,85082.0,3.0,2.0,88.252,Condo
+"Kuala Lumpur, Kuala Lumpur",878600.0,41332.0,4.0,4.0,212.562,House
+"Kuala Lumpur, Kuala Lumpur",430000.0,33792.0,3.0,2.0,127.272,Condo
+"Petaling, Selangor",820000.0,36782.0,4.0,4.0,222.962,House
+"Kuala Lumpur, Kuala Lumpur",435800.0,30862.0,3.0,2.0,141.212,Condo
+"Kuala Lumpur, Kuala Lumpur",838800.0,37972.0,4.0,4.0,220.922,House
+"Kuala Lumpur, Kuala Lumpur",568800.0,37382.0,3.0,3.0,152.172,House
+"Kuala Lumpur, Kuala Lumpur",415000.0,3462.0,3.0,2.0,12002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",445800.0,35812.0,3.0,2.0,124.492,Condo
+"Petaling, Selangor",900000.0,38752.0,5.0,5.0,232.252,House
+"Kuala Lumpur, Kuala Lumpur",418000.0,60002.0,3.0,2.0,69.672,Condo
+"Sepang, Selangor",299000.0,24762.0,4.0,3.0,120.772,Condo
+"Kuala Lumpur, Kuala Lumpur",588000.0,37542.0,3.0,3.0,156.632,House
+"Kuala Lumpur, Kuala Lumpur",443000.0,34062.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",400000.0,4442.0,3.0,2.0,9002.0,Condo
+"Ulu Langat, Selangor",489000.0,42012.0,3.0,3.0,116.42,Condo
+"Kuala Lumpur, Kuala Lumpur",550000.0,40752.0,3.0,3.0,134.982,Condo
+"Petaling, Selangor",870000.0,39022.0,4.0,4.0,222.962,House
+"Petaling, Selangor",250000.0,38442.0,2.0,2.0,65.032,Condo
+"Petaling, Selangor",450000.0,34602.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",770000.0,33152.0,4.0,3.0,232.252,House
+"Kuala Lumpur, Kuala Lumpur",420800.0,58072.0,3.0,2.0,72.462,Condo
+"Petaling, Selangor",420000.0,3002.0,3.0,2.0,14002.0,Condo
+"Petaling, Selangor",398000.0,57132.0,3.0,2.0,69.672,Condo
+"Petaling, Selangor",900000.0,38752.0,5.0,5.0,232.252,House
+"Sepang, Selangor",230000.0,55022.0,2.0,1.0,41.82,Condo
+"Petaling, Selangor",800000.0,3332.0,4.0,4.0,24002.0,House
+"Petaling, Selangor",400000.0,57412.0,3.0,2.0,69.672,Condo
+"Kuala Lumpur, Kuala Lumpur",530000.0,57052.0,3.0,2.0,92.92,Condo
+"Petaling, Selangor",730000.0,78582.0,3.0,2.0,92.92,Condo
+"Petaling, Selangor",240000.0,48932.0,2.0,2.0,49.052,Condo
+"Kuala Lumpur, Kuala Lumpur",658000.0,41962.0,4.0,3.0,156.822,House
+"Gombak, Selangor",928000.0,41622.0,4.0,4.0,222.962,House
+"Putrajaya, Putrajaya",240000.0,48022.0,2.0,2.0,49.982,Condo
+"Kuala Lumpur, Kuala Lumpur",550000.0,4662.0,3.0,2.0,11802.0,Condo
+"Kuala Lumpur, Kuala Lumpur",828800.0,38792.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",750000.0,5772.0,3.0,2.0,13002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",730000.0,7852.0,3.0,2.0,9302.0,Condo
+"Papar, Sabah",300960.0,38562.0,3.0,2.0,78.042,Condo
+"Hilir Perak, Perak",200000.0,2222.0,3.0,2.0,9002.0,House
+"Kuala Lumpur, Kuala Lumpur",485000.0,4042.0,3.0,2.0,12002.0,Condo
+"Gombak, Selangor",445000.0,35752.0,3.0,2.0,124.492,Condo
+"Kuala Lumpur, Kuala Lumpur",440000.0,35342.0,3.0,2.0,124.492,Condo
+"Petaling, Selangor",800000.0,34452.0,4.0,4.0,232.252,House
+"Kuala Lumpur, Kuala Lumpur",728000.0,41952.0,4.0,4.0,173.542,House
+"Petaling, Selangor",700000.0,30142.0,5.0,5.0,232.252,Condo
+"Kuala Lumpur, Kuala Lumpur",758800.0,38752.0,4.0,4.0,195.832,House
+"Kuala Lumpur, Kuala Lumpur",430000.0,33792.0,3.0,2.0,127.272,Condo
+"Petaling, Selangor",429000.0,3062.0,3.0,2.0,14002.0,Condo
+"Seremban, Negeri Sembilan",299000.0,24762.0,4.0,3.0,120.772,Condo
+"Sepang, Selangor",230000.0,51792.0,2.0,1.0,44.412,Condo
+"Kuala Lumpur, Kuala Lumpur",850000.0,39782.0,4.0,4.0,213.672,House
+"Petaling, Selangor",388800.0,5182.0,3.0,2.0,7502.0,Condo
+"Kuala Lumpur, Kuala Lumpur",650800.0,41952.0,4.0,3.0,155.142,House
+"Kuala Lumpur, Kuala Lumpur",488000.0,4002.0,3.0,2.0,12202.0,Condo
+"Gombak, Selangor",828800.0,38792.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",200000.0,21342.0,3.0,3.0,93.742,Condo
+"Kuala Lumpur, Kuala Lumpur",428000.0,32912.0,3.0,2.0,130.062,Condo
+"Petaling, Selangor",580000.0,36732.0,3.0,3.0,157.932,House
+"Ulu Langat, Selangor",330000.0,35522.0,3.0,2.0,92.92,Condo
+"Gombak, Selangor",300000.0,32292.0,3.0,2.0,92.92,Condo
+"Kuala Lumpur, Kuala Lumpur",530000.0,43552.0,3.0,3.0,121.72,Condo
+"Petaling, Selangor",418000.0,2992.0,3.0,3.0,14002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",428800.0,33692.0,3.0,2.0,127.272,Condo
+"Kuala Lumpur, Kuala Lumpur",638000.0,57332.0,3.0,3.0,111.292,Condo
+"Gombak, Selangor",550000.0,47252.0,3.0,3.0,116.42,Condo
+"Sepang, Selangor",249000.0,39422.0,2.0,2.0,63.172,Condo
+"Putrajaya, Putrajaya",250000.0,44852.0,2.0,2.0,55.742,Condo
+"Kuala Lumpur, Kuala Lumpur",600800.0,65452.0,3.0,2.0,91.792,Condo
+"Petaling, Selangor",450000.0,16152.0,3.0,3.0,278.72,House
+"Gombak, Selangor",1038000.0,40082.0,5.0,5.0,259.012,House
+"Petaling, Selangor",820000.0,38382.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",420800.0,4682.0,3.0,2.0,9002.0,Condo
+"Klang, Selangor",515000.0,23592.0,4.0,3.0,218.312,House
+"Petaling, Selangor",450000.0,32292.0,3.0,3.0,139.352,House
+"Petaling, Selangor",828800.0,37712.0,4.0,4.0,219.82,House
+"Petaling, Selangor",788800.0,38592.0,4.0,3.0,204.382,House
+"Kuala Lumpur, Kuala Lumpur",856800.0,43202.0,4.0,4.0,198.342,House
+"Kuala Lumpur, Kuala Lumpur",950000.0,96382.0,3.0,2.0,98.572,Serviced Apartment
+"Gombak, Selangor",238000.0,45912.0,2.0,2.0,51.842,Condo
+"Kuala Lumpur, Kuala Lumpur",828800.0,35012.0,4.0,4.0,236.712,House
+"Kuala Lumpur, Kuala Lumpur",430000.0,33792.0,3.0,2.0,127.272,Condo
+"Kuala Lumpur, Kuala Lumpur",418000.0,31032.0,3.0,3.0,134.72,Condo
+"Petaling, Selangor",750000.0,35102.0,4.0,3.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",505700.0,51362.0,3.0,2.0,98.472,Condo
+"Kuala Lumpur, Kuala Lumpur",420000.0,25122.0,3.0,2.0,167.222,Condo
+"Petaling, Selangor",730000.0,84492.0,3.0,2.0,86.42,Condo
+"Kuala Lumpur, Kuala Lumpur",658000.0,41962.0,4.0,3.0,156.822,House
+"Kuala Lumpur, Kuala Lumpur",430000.0,33792.0,3.0,2.0,127.272,Condo
+"Kuala Lumpur, Kuala Lumpur",680000.0,29282.0,5.0,5.0,232.252,Condo
+"Kuala Lumpur, Kuala Lumpur",378800.0,62742.0,2.0,1.0,60.382,Condo
+"Kuala Lumpur, Kuala Lumpur",530000.0,57052.0,3.0,2.0,92.92,Condo
+"Petaling, Selangor",1108800.0,48722.0,5.0,5.0,227.62,House
+"Kuala Lumpur, Kuala Lumpur",418000.0,31032.0,3.0,3.0,134.72,Condo
+"Petaling, Selangor",428000.0,3172.0,3.0,2.0,13502.0,Condo
+"Seremban, Negeri Sembilan",299999.0,24842.0,4.0,3.0,120.772,Condo
+"Kuala Lumpur, Kuala Lumpur",415000.0,3522.0,3.0,2.0,11802.0,Condo
+"Petaling, Selangor",480000.0,58062.0,3.0,2.0,82.682,Condo
+"Kuala Lumpur, Kuala Lumpur",836000.0,45912.0,4.0,4.0,182.082,House
+"Kuala Lumpur, Kuala Lumpur",928000.0,43432.0,4.0,4.0,213.672,House
+"Petaling, Selangor",650000.0,85322.0,3.0,2.0,76.182,Condo
+"Kuala Lumpur, Kuala Lumpur",220000.0,47362.0,2.0,2.0,46.452,Condo
+"Kuala Lumpur, Kuala Lumpur",528000.0,37892.0,3.0,2.0,139.352,Condo
+"Kuala Lumpur, Kuala Lumpur",760000.0,86122.0,3.0,2.0,88.252,Condo
+"Kuala Lumpur, Kuala Lumpur",420000.0,4672.0,3.0,3.0,9002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",430000.0,33792.0,3.0,2.0,127.272,Condo
+"Petaling, Selangor",1108000.0,45872.0,5.0,5.0,241.542,House
+"Petaling, Selangor",700000.0,30142.0,5.0,5.0,232.252,Condo
+"Petaling, Selangor",718800.0,83382.0,3.0,2.0,86.212,Condo
+"Kuala Lumpur, Kuala Lumpur",530000.0,51862.0,3.0,2.0,102.192,Condo
+"Kuala Lumpur, Kuala Lumpur",489123.0,42502.0,3.0,2.0,115.12,Condo
+"Kuala Lumpur, Kuala Lumpur",1080000.0,45062.0,4.0,4.0,239.682,House
+"Kuala Lumpur, Kuala Lumpur",518000.0,38382.0,3.0,3.0,134.982,Condo
+"Seremban, Negeri Sembilan",300000.0,35882.0,2.0,2.0,83.612,Condo
+"Petaling, Selangor",245000.0,47952.0,2.0,2.0,51.092,Condo
+"Putrajaya, Putrajaya",210000.0,45212.0,2.0,1.0,46.452,Condo
+"Petaling, Selangor",800000.0,37442.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",428000.0,32912.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",600000.0,71762.0,3.0,2.0,83.612,Condo
+"Petaling, Selangor",279000.0,37542.0,2.0,2.0,74.322,Condo
+"Ulu Langat, Selangor",523000.0,38752.0,3.0,3.0,134.982,Condo
+"Seremban, Negeri Sembilan",299999.0,24842.0,4.0,3.0,120.772,Condo
+"Sepang, Selangor",350000.0,28982.0,4.0,3.0,120.772,Condo
+"Petaling, Selangor",230000.0,41262.0,2.0,2.0,55.742,Condo
+"Petaling, Selangor",760800.0,37222.0,4.0,3.0,204.382,House
+"Gombak, Selangor",828800.0,38792.0,4.0,4.0,213.672,House
+"Gombak, Selangor",378800.0,16992.0,4.0,4.0,222.962,House
+"Kuala Lumpur, Kuala Lumpur",1000000.0,69992.0,4.0,3.0,142.882,Condo
+"Kuala Lumpur, Kuala Lumpur",750000.0,84992.0,3.0,2.0,88.252,Condo
+"Kuala Lumpur, Kuala Lumpur",750000.0,8062.0,3.0,2.0,9302.0,Condo
+"Kuala Lumpur, Kuala Lumpur",850000.0,39782.0,4.0,4.0,213.672,House
+"Putrajaya, Putrajaya",240000.0,47142.0,1.0,1.0,50.912,Condo
+"Kuala Lumpur, Kuala Lumpur",200000.0,71762.0,1.0,1.0,27.872,Condo
+"Petaling, Selangor",800000.0,39142.0,4.0,3.0,204.382,House
+"Sepang, Selangor",486000.0,56252.0,3.0,2.0,86.42,Condo
+"Kuala Lumpur, Kuala Lumpur",708800.0,7642.0,3.0,2.0,9282.0,Condo
+"Petaling, Selangor",850000.0,36602.0,4.0,4.0,232.252,House
+"Kuala Lumpur, Kuala Lumpur",1038000.0,38972.0,5.0,5.0,266.342,House
+"Petaling, Selangor",443000.0,34062.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",848000.0,39692.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",757000.0,87812.0,3.0,2.0,86.212,Condo
+"Kuala Lumpur, Kuala Lumpur",658000.0,30802.0,3.0,2.0,213.672,Condo
+"Kuala Lumpur, Kuala Lumpur",482101.0,42892.0,3.0,2.0,112.412,Condo
+"Petaling, Selangor",445000.0,34212.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",828000.0,38752.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",568500.0,4712.0,3.0,2.0,12082.0,Condo
+"Gombak, Selangor",550000.0,47252.0,3.0,3.0,116.42,Condo
+"Petaling, Selangor",828000.0,2762.0,4.0,4.0,30002.0,House
+"Kuala Lumpur, Kuala Lumpur",428000.0,32912.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",230000.0,47252.0,2.0,2.0,48.682,Condo
+"Kuala Lumpur, Kuala Lumpur",608000.0,38772.0,4.0,3.0,156.822,House
+"Kuala Lumpur, Kuala Lumpur",718000.0,77292.0,3.0,2.0,92.92,Condo
+"Petaling, Selangor",443000.0,34062.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",428000.0,32912.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",596800.0,35972.0,3.0,3.0,165.922,House
+"Kuala Lumpur, Kuala Lumpur",466000.0,56362.0,3.0,2.0,82.682,Condo
+"Kuala Lumpur, Kuala Lumpur",429000.0,51312.0,3.0,2.0,83.612,Condo
+"Kuala Lumpur, Kuala Lumpur",828000.0,37142.0,4.0,4.0,222.962,House
+"Kuala Lumpur, Kuala Lumpur",450000.0,16152.0,3.0,3.0,278.72,Townhouse
+"Gombak, Selangor",530000.0,57052.0,3.0,2.0,92.92,Condo
+"Kuala Lumpur, Kuala Lumpur",445800.0,35812.0,3.0,2.0,124.492,Condo
+"Kuala Lumpur, Kuala Lumpur",708000.0,80232.0,3.0,2.0,88.252,Condo
+"Gombak, Selangor",805000.0,36112.0,4.0,4.0,222.962,House
+"Kuala Lumpur, Kuala Lumpur",3450000.0,102392.0,5.0,5.0,336.952,Condo
+"Gombak, Selangor",468000.0,35982.0,3.0,3.0,130.062,Townhouse
+"Kuala Lumpur, Kuala Lumpur",488000.0,4072.0,3.0,2.0,12002.0,Condo
+"Petaling, Selangor",430000.0,33062.0,3.0,2.0,130.062,Condo
+"Ulu Langat, Selangor",549000.0,40672.0,3.0,3.0,134.982,Condo
+"Kuala Lumpur, Kuala Lumpur",420000.0,3002.0,3.0,2.0,14002.0,Condo
+"Petaling, Selangor",443000.0,34062.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",421888.0,1162.0,4.0,4.0,36502.0,House
+"Kuala Lumpur, Kuala Lumpur",432000.0,33942.0,3.0,2.0,127.272,Condo
+"Kuala Lumpur, Kuala Lumpur",730000.0,81862.0,3.0,2.0,89.182,Condo
+"Kuala Lumpur, Kuala Lumpur",467000.0,54052.0,3.0,2.0,86.42,Condo
+"Petaling, Selangor",630000.0,82702.0,3.0,2.0,76.182,Condo
+"Petaling, Selangor",818800.0,38322.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",1150000.0,47612.0,4.0,4.0,241.542,House
+"Petaling, Selangor",230000.0,46022.0,2.0,2.0,49.982,Condo
+"Gombak, Selangor",429000.0,3062.0,3.0,2.0,14002.0,Condo
+"Petaling, Selangor",830000.0,3322.0,4.0,4.0,25002.0,House
+"Kuala Lumpur, Kuala Lumpur",485000.0,4042.0,3.0,2.0,12002.0,Condo
+"Gombak, Selangor",430000.0,34162.0,3.0,2.0,125.882,Condo
+"Petaling, Selangor",239000.0,49672.0,2.0,2.0,48.122,Condo
+"Petaling, Selangor",230000.0,45842.0,2.0,2.0,50.172,Condo
+"Kuala Lumpur, Kuala Lumpur",530000.0,55932.0,4.0,2.0,94.762,Condo
+"Petaling, Selangor",433000.0,33292.0,3.0,2.0,130.062,Condo
+"Petaling, Selangor",1750000.0,64962.0,5.0,5.0,269.412,House
+"Petaling, Selangor",828000.0,38752.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",428000.0,32912.0,3.0,2.0,130.062,Condo
+"Petaling, Selangor",450000.0,36152.0,3.0,2.0,124.492,Condo
+"Kuala Lumpur, Kuala Lumpur",708800.0,82222.0,3.0,2.0,86.212,Condo
+"Petaling, Selangor",818800.0,36722.0,4.0,4.0,222.962,House
+"Kuala Lumpur, Kuala Lumpur",489000.0,42012.0,3.0,3.0,116.42,Condo
+"Petaling, Selangor",718000.0,77292.0,3.0,2.0,92.92,Condo
+"Kuala Lumpur, Kuala Lumpur",412000.0,23842.0,3.0,2.0,172.792,Condo
+"Petaling, Selangor",230000.0,41262.0,2.0,2.0,55.742,Condo
+"Kuala Lumpur, Kuala Lumpur",485000.0,4042.0,3.0,2.0,12002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",513000.0,42482.0,3.0,3.0,120.772,Condo
+"Kuala Lumpur, Kuala Lumpur",820000.0,47612.0,4.0,4.0,172.242,House
+"Petaling, Selangor",828000.0,37142.0,4.0,4.0,222.962,House
+"Kuala Lumpur, Kuala Lumpur",450000.0,36152.0,3.0,2.0,124.492,Condo
+"Kuala Lumpur, Kuala Lumpur",544580.0,50152.0,3.0,2.0,108.62,Condo
+"Kuala Lumpur, Kuala Lumpur",430000.0,34292.0,3.0,2.0,125.412,Condo
+"Petaling, Selangor",920000.0,34152.0,5.0,5.0,269.412,House
+"Petaling, Selangor",780000.0,38162.0,4.0,3.0,204.382,House
+"Gombak, Selangor",430000.0,34162.0,3.0,2.0,125.882,Condo
+"Kuala Lumpur, Kuala Lumpur",802800.0,37772.0,4.0,4.0,212.562,House
+"Labuan, Labuan",430000.0,33062.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",720000.0,83332.0,3.0,2.0,86.42,Condo
+"Petaling, Selangor",489000.0,55002.0,3.0,2.0,88.912,Condo
+"Kuala Lumpur, Kuala Lumpur",430000.0,34082.0,3.0,2.0,126.162,Condo
+"Gombak, Selangor",560000.0,46372.0,3.0,3.0,120.772,Condo
+"Kuala Lumpur, Kuala Lumpur",708800.0,82222.0,3.0,2.0,86.212,Condo
+"Kuala Langat, Selangor",749000.0,35832.0,4.0,3.0,209.032,House
+"Kuala Lumpur, Kuala Lumpur",560000.0,46372.0,3.0,3.0,120.772,Condo
+"Petaling, Selangor",200000.0,43062.0,2.0,2.0,46.452,Condo
+"Kuala Lumpur, Kuala Lumpur",438000.0,16262.0,4.0,4.0,269.412,House
+"Kuala Lumpur, Kuala Lumpur",1038800.0,39432.0,5.0,5.0,263.462,House
+"Gombak, Selangor",688800.0,39522.0,3.0,3.0,174.282,House
+"Kuala Lumpur, Kuala Lumpur",530000.0,51862.0,3.0,2.0,102.192,Condo
+"Kuala Lumpur, Kuala Lumpur",220000.0,23682.0,1.0,1.0,92.92,Condo
+"Kuala Lumpur, Kuala Lumpur",430000.0,33792.0,3.0,2.0,127.272,Condo
+"Kuala Lumpur, Kuala Lumpur",536000.0,46052.0,3.0,3.0,116.42,Condo
+"Gombak, Selangor",475000.0,18942.0,3.0,3.0,250.832,Townhouse
+"Kuala Lumpur, Kuala Lumpur",428000.0,34132.0,3.0,2.0,125.412,Condo
+"Petaling, Selangor",600000.0,71762.0,3.0,2.0,83.612,Condo
+"Petaling, Selangor",430000.0,33062.0,3.0,3.0,130.062,Condo
+"Petaling, Selangor",420800.0,58072.0,3.0,2.0,72.462,Condo
+"Kuala Lumpur, Kuala Lumpur",680000.0,29282.0,5.0,5.0,232.252,Condo
+"Petaling, Selangor",900000.0,38752.0,5.0,5.0,232.252,House
+"Petaling, Selangor",788800.0,38592.0,4.0,3.0,204.382,House
+"Petaling, Selangor",450000.0,34602.0,3.0,2.0,130.062,Condo
+"Petaling, Selangor",230000.0,45022.0,2.0,2.0,51.092,Condo
+"Kuala Lumpur, Kuala Lumpur",590000.0,45362.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",450000.0,44852.0,3.0,2.0,100.332,Condo
+"Petaling, Selangor",400000.0,57412.0,3.0,2.0,69.672,Condo
+"Kuala Lumpur, Kuala Lumpur",624500.0,65452.0,3.0,2.0,95.412,Condo
+"Kuala Lumpur, Kuala Lumpur",700000.0,81022.0,3.0,2.0,86.42,Condo
+"Kuala Lumpur, Kuala Lumpur",500000.0,21532.0,5.0,4.0,232.252,House
+"Kuala Lumpur, Kuala Lumpur",818000.0,4542.0,4.0,4.0,18002.0,House
+"Petaling, Selangor",450000.0,24222.0,3.0,3.0,185.82,House
+"Petaling, Selangor",1108800.0,48722.0,5.0,5.0,227.62,House
+"Kuala Langat, Selangor",850000.0,29212.0,5.0,5.0,290.962,House
+"Kuala Lumpur, Kuala Lumpur",443000.0,35112.0,3.0,2.0,126.162,Condo
+"Petaling, Selangor",445800.0,35812.0,3.0,2.0,124.492,Condo
+"Gombak, Selangor",778000.0,39882.0,4.0,3.0,195.092,House
+"Putrajaya, Putrajaya",299000.0,24762.0,4.0,3.0,120.772,Condo
+"Seremban, Negeri Sembilan",299000.0,24762.0,4.0,3.0,120.772,Condo
+"Petaling, Selangor",430000.0,52602.0,3.0,2.0,81.752,Condo
+"Petaling, Selangor",801800.0,34972.0,4.0,4.0,229.282,House
+"Kuala Lumpur, Kuala Lumpur",450000.0,35672.0,3.0,2.0,126.162,Condo
+"Kuala Lumpur, Kuala Lumpur",820000.0,38382.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",445800.0,35812.0,3.0,2.0,124.492,Condo
+"Putrajaya, Putrajaya",299999.0,24842.0,4.0,3.0,120.772,Condo
+"Kuala Lumpur, Kuala Lumpur",490000.0,4152.0,3.0,2.0,11802.0,Condo
+"Petaling, Selangor",688800.0,44402.0,4.0,3.0,155.142,House
+"Putrajaya, Putrajaya",200000.0,43062.0,2.0,2.0,46.452,Condo
+"Kuala Lumpur, Kuala Lumpur",220000.0,78942.0,1.0,1.0,27.872,Condo
+"Kuala Lumpur, Kuala Lumpur",432800.0,34012.0,3.0,2.0,127.272,Condo
+"Kuala Lumpur, Kuala Lumpur",450000.0,2252.0,3.0,3.0,20002.0,House
+"Sepang, Selangor",243000.0,52312.0,1.0,1.0,46.452,Condo
+"Kuala Lumpur, Kuala Lumpur",430000.0,33062.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",228000.0,49092.0,2.0,2.0,46.452,Condo
+"Kuala Lumpur, Kuala Lumpur",230000.0,49522.0,2.0,1.0,46.452,Condo
+"Kuala Lumpur, Kuala Lumpur",718000.0,83102.0,3.0,2.0,86.42,Condo
+"Sepang, Selangor",250000.0,48932.0,2.0,2.0,51.092,Condo
+"Kuala Lumpur, Kuala Lumpur",750000.0,84992.0,3.0,2.0,88.252,Condo
+"Gombak, Selangor",550000.0,59202.0,3.0,2.0,92.92,Condo
+"Putrajaya, Putrajaya",2250000.0,53822.0,6.0,7.0,418.052,House
+"Kuala Lumpur, Kuala Lumpur",428000.0,32912.0,3.0,3.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",430000.0,33062.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",550000.0,47252.0,3.0,3.0,116.42,Condo
+"Petaling, Selangor",400000.0,57412.0,3.0,2.0,69.672,Condo
+"Petaling, Selangor",750000.0,36702.0,4.0,3.0,204.382,House
+"Petaling, Selangor",443000.0,34062.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",440000.0,18952.0,4.0,4.0,232.252,House
+"Kuala Lumpur, Kuala Lumpur",434000.0,34102.0,3.0,2.0,127.272,Condo
+"Kuala Lumpur, Kuala Lumpur",688000.0,41422.0,3.0,3.0,166.112,House
+"Putrajaya, Putrajaya",299999.0,24842.0,4.0,3.0,120.772,Condo
+"Kuala Lumpur, Kuala Lumpur",428000.0,32912.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",418000.0,26782.0,3.0,2.0,156.072,Condo
+"Petaling, Selangor",428000.0,3172.0,3.0,2.0,13502.0,Condo
+"Gombak, Selangor",246000.0,48322.0,2.0,2.0,50.912,Condo
+"Gombak, Selangor",428000.0,3062.0,3.0,2.0,14002.0,Condo
+"Ulu Langat, Selangor",529000.0,45452.0,3.0,3.0,116.42,Condo
+"Kuala Lumpur, Kuala Lumpur",750000.0,84992.0,3.0,2.0,88.252,Condo
+"Ulu Langat, Selangor",544000.0,30982.0,4.0,3.0,175.582,House
+"Petaling, Selangor",488000.0,58372.0,3.0,2.0,83.612,Condo
+"Putrajaya, Putrajaya",240000.0,48022.0,2.0,2.0,49.982,Condo
+"Kuala Lumpur, Kuala Lumpur",230000.0,45022.0,2.0,2.0,51.092,Condo
+"Kuala Lumpur, Kuala Lumpur",450000.0,3462.0,3.0,2.0,13002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",828000.0,38752.0,4.0,4.0,213.672,House
+"Gombak, Selangor",428000.0,34132.0,3.0,2.0,125.412,Condo
+"Kuala Lumpur, Kuala Lumpur",530000.0,51862.0,4.0,2.0,102.192,Condo
+"Petaling, Selangor",430000.0,33062.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",231000.0,24842.0,3.0,2.0,92.992,Condo
+"Petaling, Selangor",443000.0,34062.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",750000.0,84992.0,3.0,2.0,88.252,Condo
+"Kuala Lumpur, Kuala Lumpur",680000.0,58562.0,4.0,3.0,116.132,House
+"Petaling, Selangor",443000.0,34062.0,3.0,2.0,130.062,Condo
+"Gombak, Selangor",828800.0,38792.0,4.0,4.0,213.672,House
+"Petaling, Selangor",445000.0,35752.0,3.0,2.0,124.492,Condo
+"Putrajaya, Putrajaya",230000.0,49522.0,2.0,2.0,46.452,Condo
+"Kuala Lumpur, Kuala Lumpur",500000.0,4242.0,3.0,2.0,11802.0,Condo
+"Kuala Lumpur, Kuala Lumpur",1000000.0,69992.0,4.0,3.0,142.882,Condo
+"Petaling, Selangor",840000.0,39312.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",3800000.0,104162.0,4.0,5.0,364.822,House
+"Kuala Lumpur, Kuala Lumpur",708000.0,7612.0,3.0,2.0,9302.0,Condo
+"Petaling, Selangor",300000.0,46132.0,2.0,2.0,65.032,Condo
+"Petaling, Selangor",430000.0,3072.0,3.0,2.0,14002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",840000.0,39312.0,4.0,4.0,213.672,House
+"Petaling, Selangor",828000.0,29712.0,4.0,3.0,278.72,House
+"Petaling, Selangor",818000.0,38282.0,4.0,4.0,213.672,House
+"Sepang, Selangor",199999.0,43062.0,2.0,1.0,46.452,Condo
+"Putrajaya, Putrajaya",240000.0,46982.0,2.0,2.0,51.092,Condo
+"Kuala Lumpur, Kuala Lumpur",530800.0,51012.0,3.0,2.0,104.052,Condo
+"Kuala Lumpur, Kuala Lumpur",420800.0,50332.0,3.0,2.0,83.612,Condo
+"Kuala Lumpur, Kuala Lumpur",450000.0,34602.0,3.0,2.0,130.062,Condo
+"Petaling, Selangor",460000.0,18342.0,3.0,3.0,250.832,Townhouse
+"Sepang, Selangor",300000.0,24842.0,4.0,3.0,120.772,Condo
+"Kuala Lumpur, Kuala Lumpur",850000.0,36602.0,4.0,3.0,232.252,House
+"Kuala Lumpur, Kuala Lumpur",450000.0,35672.0,3.0,2.0,126.162,Condo
+"Kuala Lumpur, Kuala Lumpur",420800.0,45302.0,3.0,2.0,92.92,Condo
+"Gombak, Selangor",1080000.0,45062.0,4.0,4.0,239.682,House
+"Petaling, Selangor",445800.0,35812.0,3.0,2.0,124.492,Condo
+"Gombak, Selangor",778000.0,39882.0,4.0,3.0,195.092,House
+"Kuala Lumpur, Kuala Lumpur",481290.0,40892.0,3.0,2.0,117.72,Condo
+"Petaling, Selangor",450000.0,34602.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",530000.0,57052.0,3.0,2.0,92.92,Condo
+"Seremban, Negeri Sembilan",492100.0,1132.0,5.0,5.0,43552.0,House
+"Petaling, Selangor",820000.0,38382.0,4.0,4.0,213.672,House
+"Gombak, Selangor",428000.0,34132.0,3.0,2.0,125.412,Condo
+"Petaling, Selangor",445000.0,3182.0,3.0,2.0,14002.0,Condo
+"Petaling, Selangor",428000.0,3062.0,3.0,2.0,14002.0,Condo
+"Petaling, Selangor",418000.0,32612.0,3.0,3.0,128.22,Condo
+"Kuala Lumpur, Kuala Lumpur",708800.0,82222.0,3.0,2.0,86.212,Condo
+"Kuala Lumpur, Kuala Lumpur",545000.0,43462.0,3.0,3.0,125.412,Condo
+"Kuala Lumpur, Kuala Lumpur",450000.0,1502.0,3.0,3.0,30002.0,House
+"Kuala Lumpur, Kuala Lumpur",430000.0,33062.0,3.0,2.0,130.062,Condo
+"Petaling, Selangor",440000.0,3142.0,3.0,2.0,14002.0,Condo
+"Petaling, Selangor",280000.0,40192.0,2.0,2.0,69.672,Condo
+"Gombak, Selangor",429000.0,3062.0,3.0,2.0,14002.0,Condo
+"Seremban, Negeri Sembilan",299000.0,24762.0,4.0,3.0,120.772,Condo
+"Kuala Lumpur, Kuala Lumpur",802880.0,37762.0,4.0,4.0,212.652,House
+"Kuala Langat, Selangor",580000.0,27142.0,4.0,3.0,213.672,House
+"Petaling, Selangor",230000.0,24762.0,2.0,2.0,92.92,Condo
+"Kuala Lumpur, Kuala Lumpur",630000.0,82912.0,3.0,2.0,75.992,Condo
+"Kuala Lumpur, Kuala Lumpur",442000.0,33982.0,3.0,2.0,130.062,Condo
+"Petaling, Selangor",460000.0,55202.0,3.0,2.0,83.332,Condo
+"Kuala Lumpur, Kuala Lumpur",778000.0,39882.0,4.0,3.0,195.092,House
+"Petaling, Selangor",443000.0,34062.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",850000.0,39782.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",428000.0,32912.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",220000.0,78942.0,1.0,1.0,27.872,Condo
+"Kuala Lumpur, Kuala Lumpur",680000.0,29282.0,5.0,5.0,232.252,Condo
+"Gombak, Selangor",430000.0,34162.0,3.0,2.0,125.882,Condo
+"Kuala Lumpur, Kuala Lumpur",280000.0,46372.0,3.0,2.0,60.382,Apartment
+"Kuala Lumpur, Kuala Lumpur",440000.0,35342.0,3.0,2.0,124.492,Condo
+"Petaling, Selangor",708000.0,80232.0,3.0,2.0,88.252,Condo
+"Petaling, Selangor",1108000.0,42602.0,5.0,5.0,260.122,House
+"Petaling, Selangor",428000.0,3062.0,3.0,2.0,14002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",868000.0,40622.0,4.0,4.0,213.672,House
+"Petaling, Selangor",818800.0,45712.0,4.0,3.0,179.112,House
+"Kuala Lumpur, Kuala Lumpur",688800.0,79902.0,3.0,2.0,86.212,Condo
+"Ulu Langat, Selangor",540000.0,29212.0,4.0,3.0,184.872,House
+"Petaling, Selangor",828000.0,35652.0,4.0,3.0,232.252,House
+"Kuala Lumpur, Kuala Lumpur",828000.0,38752.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",568000.0,41992.0,3.0,3.0,135.262,House
+"Petaling, Selangor",3500000.0,86892.0,5.0,5.0,402.812,House
+"Putrajaya, Putrajaya",299000.0,24762.0,4.0,3.0,120.772,Condo
+"Kuala Lumpur, Kuala Lumpur",500000.0,53822.0,3.0,2.0,92.92,Condo
+"Petaling, Selangor",429000.0,3062.0,3.0,2.0,14002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",460000.0,38092.0,3.0,2.0,120.772,Condo
+"Kuala Lumpur, Kuala Lumpur",200000.0,21512.0,3.0,3.0,92.992,Condo
+"Kuala Lumpur, Kuala Lumpur",658000.0,56392.0,3.0,3.0,116.682,Condo
+"Kuala Lumpur, Kuala Lumpur",230000.0,3292.0,2.0,2.0,7002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",630000.0,67812.0,4.0,2.0,92.92,Condo
+"Kuala Lumpur, Kuala Lumpur",428000.0,28792.0,4.0,3.0,148.642,Condo
+"Kuala Lumpur, Kuala Lumpur",625000.0,56062.0,3.0,2.0,111.482,Condo
+"Kuala Lumpur, Kuala Lumpur",730000.0,7852.0,3.0,2.0,9302.0,Condo
+"Petaling, Selangor",800000.0,2672.0,4.0,4.0,30002.0,House
+"Kuala Lumpur, Kuala Lumpur",250000.0,19222.0,3.0,3.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",880000.0,30562.0,6.0,5.0,287.992,House
+"Kuala Lumpur, Kuala Lumpur",634000.0,56872.0,3.0,2.0,111.482,Condo
+"Gombak, Selangor",429000.0,3062.0,3.0,2.0,14002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",429700.0,33762.0,3.0,2.0,127.272,Condo
+"Kuala Lumpur, Kuala Lumpur",708000.0,80232.0,3.0,2.0,88.252,Condo
+"Kuala Lumpur, Kuala Lumpur",250000.0,38442.0,2.0,2.0,65.032,Condo
+"Kuala Lumpur, Kuala Lumpur",500000.0,53822.0,3.0,2.0,92.92,Condo
+"Kuala Lumpur, Kuala Lumpur",658000.0,43992.0,4.0,3.0,149.572,House
+"Kuala Lumpur, Kuala Lumpur",750000.0,84992.0,3.0,2.0,88.252,Condo
+"Petaling, Selangor",818000.0,36692.0,4.0,4.0,222.962,House
+"Petaling, Selangor",230000.0,45022.0,2.0,2.0,51.092,Condo
+"Petaling, Selangor",420000.0,33492.0,3.0,2.0,125.412,Condo
+"Petaling, Selangor",388800.0,5182.0,3.0,2.0,7502.0,Condo
+"Petaling, Selangor",468000.0,35982.0,3.0,3.0,130.062,Townhouse
+"Kuala Lumpur, Kuala Lumpur",828800.0,38992.0,4.0,4.0,212.562,House
+"Petaling, Selangor",1108800.0,47742.0,5.0,4.0,232.252,House
+"Petaling, Selangor",808800.0,37852.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",468000.0,41982.0,3.0,3.0,111.482,Townhouse
+"Kuala Lumpur, Kuala Lumpur",500000.0,21532.0,4.0,4.0,232.252,House
+"Gombak, Selangor",445800.0,35812.0,3.0,2.0,124.492,Condo
+"Kuala Lumpur, Kuala Lumpur",770000.0,33152.0,4.0,3.0,232.252,House
+"Kuala Lumpur, Kuala Lumpur",826000.0,47622.0,4.0,4.0,173.442,House
+"Kuala Lumpur, Kuala Lumpur",477000.0,55212.0,3.0,2.0,86.42,Condo
+"Petaling, Selangor",820000.0,38382.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",510000.0,4322.0,3.0,2.0,11802.0,Condo
+"Kuala Lumpur, Kuala Lumpur",428800.0,3062.0,3.0,2.0,14002.0,Condo
+"Petaling, Selangor",750000.0,84992.0,3.0,2.0,88.252,Condo
+"Petaling, Selangor",440000.0,35342.0,3.0,2.0,124.492,Condo
+"Gombak, Selangor",450000.0,35672.0,3.0,2.0,126.162,Condo
+"Kuala Lumpur, Kuala Lumpur",550000.0,65782.0,3.0,2.0,83.612,Condo
+"Kuala Lumpur, Kuala Lumpur",638000.0,40682.0,4.0,3.0,156.822,House
+"Petaling, Selangor",818000.0,36692.0,4.0,4.0,222.962,House
+"Petaling, Selangor",428000.0,3062.0,3.0,2.0,14002.0,Condo
+"Petaling, Selangor",450000.0,35102.0,3.0,2.0,128.22,Condo
+"Klang, Selangor",400000.0,31202.0,3.0,2.0,128.22,Condo
+"Petaling, Selangor",780000.0,39982.0,4.0,3.0,195.092,House
+"Kuala Lumpur, Kuala Lumpur",475000.0,18942.0,3.0,3.0,250.832,Townhouse
+"Petaling, Selangor",428000.0,3172.0,3.0,2.0,13502.0,Condo
+"Gombak, Selangor",828000.0,38752.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",443000.0,34062.0,3.0,2.0,130.062,Condo
+"Petaling, Selangor",488000.0,56482.0,3.0,2.0,86.42,Condo
+"Gombak, Selangor",440000.0,35342.0,3.0,2.0,124.492,Condo
+"Gombak, Selangor",230000.0,41262.0,2.0,2.0,55.742,Condo
+"Kuala Lumpur, Kuala Lumpur",220000.0,78942.0,1.0,1.0,27.872,Condo
+"Kuala Lumpur, Kuala Lumpur",445000.0,34972.0,3.0,2.0,127.272,Condo
+"Petaling, Selangor",820000.0,38382.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",1000000.0,69992.0,4.0,3.0,142.882,Condo
+"Kuala Lumpur, Kuala Lumpur",429800.0,28922.0,3.0,3.0,148.642,Condo
+"Kuala Lumpur, Kuala Lumpur",420000.0,44682.0,3.0,2.0,94.012,Condo
+"Kuala Lumpur, Kuala Lumpur",530000.0,4392.0,3.0,3.0,1207.72,Condo
+"Gombak, Selangor",828800.0,44612.0,4.0,4.0,185.82,House
+"Petaling, Selangor",429000.0,3062.0,3.0,2.0,14002.0,Condo
+"Petaling, Selangor",1108800.0,48722.0,5.0,5.0,227.62,House
+"Kuala Lumpur, Kuala Lumpur",539000.0,46192.0,3.0,3.0,116.682,Condo
+"Petaling, Selangor",2250000.0,52652.0,5.0,6.0,427.342,House
+"Kuala Lumpur, Kuala Lumpur",718800.0,33212.0,4.0,4.0,216.462,House
+"Kuala Lumpur, Kuala Lumpur",465000.0,35752.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",820000.0,38382.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",757000.0,87812.0,3.0,2.0,86.212,Condo
+"Kuala Lumpur, Kuala Lumpur",430000.0,34082.0,3.0,2.0,126.162,Condo
+"Kuala Lumpur, Kuala Lumpur",708800.0,82222.0,3.0,2.0,86.212,Condo
+"Seremban, Negeri Sembilan",299000.0,24762.0,4.0,3.0,120.772,Condo
+"Gombak, Selangor",430000.0,34162.0,3.0,2.0,125.882,Condo
+"Petaling, Selangor",900000.0,38752.0,5.0,5.0,232.252,House
+"Sepang, Selangor",299000.0,24762.0,4.0,3.0,120.772,Condo
+"Petaling, Selangor",468000.0,56162.0,3.0,2.0,83.332,Condo
+"Kuala Lumpur, Kuala Lumpur",428000.0,32912.0,3.0,2.0,130.062,Condo
+"Sepang, Selangor",698000.0,30052.0,5.0,5.0,232.252,Condo
+"Gombak, Selangor",850000.0,39782.0,4.0,4.0,213.672,House
+"Ulu Langat, Selangor",490000.0,42102.0,3.0,3.0,116.42,Condo
+"Kuala Lumpur, Kuala Lumpur",428000.0,32912.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",430000.0,34542.0,3.0,2.0,124.492,Condo
+"Petaling, Selangor",750000.0,84992.0,3.0,2.0,88.252,Condo
+"Gombak, Selangor",455000.0,3372.0,3.0,2.0,13502.0,House
+"Petaling, Selangor",430000.0,32482.0,3.0,3.0,132.382,Condo
+"Gombak, Selangor",428000.0,3172.0,3.0,2.0,13502.0,Condo
+"Kuala Lumpur, Kuala Lumpur",486500.0,4832.0,3.0,2.0,10082.0,Condo
+"Kuala Lumpur, Kuala Lumpur",430000.0,33792.0,3.0,2.0,127.272,Condo
+"Klang, Selangor",400000.0,33122.0,3.0,2.0,120.772,Condo
+"Gombak, Selangor",1150000.0,47612.0,4.0,4.0,241.542,House
+"Kuala Lumpur, Kuala Lumpur",429000.0,3062.0,3.0,2.0,14002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",1150000.0,47612.0,4.0,4.0,241.542,House
+"Kuala Lumpur, Kuala Lumpur",530000.0,50942.0,4.0,2.0,104.052,Condo
+"Kuala Lumpur, Kuala Lumpur",750000.0,8062.0,3.0,2.0,9302.0,Condo
+"Gombak, Selangor",828000.0,38752.0,4.0,4.0,213.672,House
+"Gombak, Selangor",450000.0,35672.0,3.0,2.0,126.162,Condo
+"Petaling, Selangor",330000.0,57292.0,2.0,2.0,57.62,Condo
+"Ulu Langat, Selangor",539000.0,44632.0,3.0,3.0,120.772,Condo
+"Petaling, Selangor",780800.0,40022.0,4.0,4.0,195.092,House
+"Kuala Lumpur, Kuala Lumpur",378800.0,62742.0,2.0,1.0,60.382,Condo
+"Kuala Lumpur, Kuala Lumpur",430000.0,33062.0,3.0,2.0,130.062,Condo
+"Kuala Selangor, Selangor",445800.0,35812.0,3.0,2.0,124.492,Condo
+"Petaling, Selangor",828000.0,55712.0,4.0,4.0,148.642,House
+"Kuala Lumpur, Kuala Lumpur",440000.0,16922.0,4.0,4.0,260.122,House
+"Kuala Lumpur, Kuala Lumpur",480000.0,43062.0,3.0,3.0,111.482,Condo
+"Petaling, Selangor",900000.0,33412.0,5.0,5.0,269.412,House
+"Kuala Lumpur, Kuala Lumpur",630000.0,82912.0,3.0,2.0,75.992,Condo
+"Kuala Lumpur, Kuala Lumpur",770000.0,33152.0,4.0,3.0,232.252,House
+"Kuala Lumpur, Kuala Lumpur",638000.0,57332.0,3.0,3.0,111.292,Condo
+"Gombak, Selangor",928000.0,41622.0,4.0,4.0,222.962,House
+"Kuala Lumpur, Kuala Lumpur",680000.0,39182.0,3.0,3.0,173.542,House
+"Putrajaya, Putrajaya",230000.0,45022.0,2.0,2.0,51.092,Condo
+"Gombak, Selangor",430000.0,3072.0,3.0,2.0,14002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",450000.0,43252.0,3.0,3.0,104.052,Condo
+"Petaling, Selangor",428000.0,3172.0,3.0,2.0,13502.0,Condo
+"Petaling, Selangor",760000.0,38962.0,4.0,3.0,195.092,House
+"Kuala Lumpur, Kuala Lumpur",530000.0,5302.0,3.0,2.0,10002.0,Condo
+"Ulu Langat, Selangor",600000.0,28082.0,5.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",820000.0,38382.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",378800.0,62742.0,2.0,1.0,60.382,Condo
+"Petaling, Selangor",440000.0,35342.0,3.0,2.0,124.492,Condo
+"Kuala Lumpur, Kuala Lumpur",200000.0,39152.0,2.0,1.0,51.092,Condo
+"Petaling, Selangor",428000.0,3172.0,3.0,2.0,13502.0,Condo
+"Kuala Lumpur, Kuala Lumpur",378800.0,62742.0,2.0,1.0,60.382,Condo
+"Petaling, Selangor",430000.0,3192.0,3.0,2.0,13502.0,Condo
+"Kuala Lumpur, Kuala Lumpur",688000.0,41422.0,3.0,3.0,166.112,House
+"Kuala Lumpur, Kuala Lumpur",750000.0,8082.0,3.0,2.0,9282.0,Condo
+"Kuala Lumpur, Kuala Lumpur",760000.0,86122.0,3.0,2.0,88.252,Condo
+"Kuala Lumpur, Kuala Lumpur",618800.0,39462.0,4.0,3.0,156.822,House
+"Kuala Lumpur, Kuala Lumpur",718000.0,80512.0,3.0,2.0,89.182,Condo
+"Kuala Lumpur, Kuala Lumpur",250000.0,38442.0,2.0,2.0,65.032,Condo
+"Ulu Langat, Selangor",550000.0,47252.0,3.0,3.0,116.42,Condo
+"Kuala Lumpur, Kuala Lumpur",445000.0,35752.0,3.0,2.0,124.492,Condo
+"Kuala Lumpur, Kuala Lumpur",500000.0,35882.0,3.0,2.0,139.352,Condo
+"Petaling, Selangor",430000.0,3072.0,3.0,2.0,14002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",530000.0,50942.0,3.0,2.0,104.052,Condo
+"Kuala Lumpur, Kuala Lumpur",428000.0,30712.0,3.0,3.0,139.352,Condo
+"Kuala Lumpur, Kuala Lumpur",565000.0,4682.0,3.0,2.0,12082.0,Condo
+"Kuala Lumpur, Kuala Lumpur",789000.0,48532.0,4.0,4.0,162.572,House
+"Petaling, Selangor",820000.0,38382.0,4.0,4.0,213.672,House
+"Petaling, Selangor",818000.0,38282.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",378800.0,62742.0,2.0,1.0,60.382,Condo
+"Kuala Lumpur, Kuala Lumpur",750000.0,8062.0,3.0,2.0,9302.0,Condo
+"Kuala Lumpur, Kuala Lumpur",378800.0,60862.0,2.0,1.0,62.242,Condo
+"Petaling, Selangor",750000.0,35102.0,4.0,4.0,213.672,House
+"Petaling, Selangor",828000.0,2762.0,4.0,4.0,30002.0,House
+"Petaling, Selangor",260000.0,39982.0,2.0,2.0,65.032,Condo
+"Petaling, Selangor",240000.0,47142.0,2.0,2.0,50.912,Condo
+"Kuala Lumpur, Kuala Lumpur",648000.0,49822.0,3.0,3.0,130.062,House
+"Petaling, Selangor",887800.0,42142.0,4.0,4.0,210.72,House
+"Kuala Lumpur, Kuala Lumpur",820000.0,47232.0,4.0,3.0,173.632,House
+"Kuala Lumpur, Kuala Lumpur",718000.0,80512.0,3.0,2.0,89.182,Condo
+"Kuala Lumpur, Kuala Lumpur",450000.0,3462.0,3.0,2.0,13002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",500800.0,49012.0,3.0,2.0,102.192,Condo
+"Kuala Lumpur, Kuala Lumpur",520000.0,46652.0,3.0,2.0,111.482,Condo
+"Gombak, Selangor",530000.0,51862.0,3.0,2.0,102.192,Condo
+"Kuala Lumpur, Kuala Lumpur",530000.0,57052.0,3.0,2.0,92.92,Condo
+"Gombak, Selangor",828000.0,37142.0,4.0,4.0,222.962,House
+"Kuala Lumpur, Kuala Lumpur",442800.0,34792.0,3.0,2.0,127.272,Condo
+"Kuala Lumpur, Kuala Lumpur",658000.0,30802.0,3.0,2.0,213.672,Condo
+"Kuala Lumpur, Kuala Lumpur",450000.0,34602.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",630000.0,6362.0,3.0,2.0,9902.0,Condo
+"Kuala Lumpur, Kuala Lumpur",430000.0,34162.0,3.0,2.0,125.882,Condo
+"Putrajaya, Putrajaya",240000.0,45722.0,1.0,1.0,52.492,Condo
+"Kuala Lumpur, Kuala Lumpur",850000.0,39782.0,4.0,4.0,213.672,House
+"Kuala Selangor, Selangor",445800.0,35812.0,3.0,2.0,124.492,Condo
+"Kuala Lumpur, Kuala Lumpur",680000.0,58562.0,4.0,3.0,116.132,Condo
+"Kuala Lumpur, Kuala Lumpur",530000.0,57052.0,3.0,2.0,92.92,Condo
+"Kuala Lumpur, Kuala Lumpur",430000.0,34082.0,3.0,2.0,126.162,Condo
+"Sepang, Selangor",260000.0,37122.0,3.0,2.0,70.052,Condo
+"Kuala Lumpur, Kuala Lumpur",840000.0,39312.0,4.0,4.0,213.672,House
+"Kuala Selangor, Selangor",1080000.0,45062.0,4.0,4.0,239.682,House
+"Ulu Langat, Selangor",569000.0,48882.0,3.0,3.0,116.42,Condo
+"Petaling, Selangor",600000.0,71762.0,3.0,2.0,83.612,Condo
+"Kuala Lumpur, Kuala Lumpur",770000.0,33152.0,4.0,3.0,232.252,House
+"Kuala Lumpur, Kuala Lumpur",448000.0,53112.0,3.0,2.0,84.352,Condo
+"Kuala Lumpur, Kuala Lumpur",230000.0,47612.0,2.0,2.0,48.312,Condo
+"Petaling, Selangor",920000.0,36682.0,5.0,5.0,250.832,House
+"Petaling, Selangor",688000.0,29622.0,5.0,5.0,232.252,Condo
+"Kuala Lumpur, Kuala Lumpur",539000.0,39932.0,3.0,3.0,134.982,Condo
+"Kuala Lumpur, Kuala Lumpur",708800.0,82222.0,3.0,2.0,86.212,Condo
+"Kuala Lumpur, Kuala Lumpur",530000.0,57052.0,3.0,2.0,92.92,Condo
+"Kuala Lumpur, Kuala Lumpur",1080000.0,45062.0,4.0,4.0,239.682,House
+"Gombak, Selangor",468000.0,35982.0,3.0,3.0,130.062,Townhouse
+"Gombak, Selangor",445800.0,35812.0,3.0,2.0,124.492,Condo
+"Petaling, Selangor",1790000.0,42682.0,6.0,6.0,419.442,House
+"Petaling, Selangor",240000.0,47142.0,2.0,2.0,50.912,Condo
+"Petaling, Selangor",900000.0,38752.0,5.0,5.0,232.252,House
+"Petaling, Selangor",500000.0,44852.0,3.0,3.0,111.482,Condo
+"Kuala Lumpur, Kuala Lumpur",480000.0,43062.0,4.0,3.0,111.482,Condo
+"Petaling, Selangor",429000.0,2682.0,3.0,2.0,16002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",1100000.0,81662.0,3.0,2.0,134.72,Condo
+"Kuala Lumpur, Kuala Lumpur",500000.0,5812.0,2.0,2.0,8602.0,Condo
+"Petaling, Selangor",800000.0,35882.0,4.0,3.0,222.962,House
+"Kuala Lumpur, Kuala Lumpur",419000.0,30072.0,3.0,3.0,139.352,Condo
+"Kuala Lumpur, Kuala Lumpur",630000.0,67812.0,4.0,2.0,92.92,Condo
+"Gombak, Selangor",430000.0,34162.0,3.0,2.0,125.882,Condo
+"Gombak, Selangor",928000.0,43432.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",410000.0,27582.0,3.0,2.0,148.642,Condo
+"Kuala Lumpur, Kuala Lumpur",428000.0,32912.0,3.0,2.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",429000.0,3062.0,3.0,2.0,14002.0,Condo
+"Gombak, Selangor",428000.0,34132.0,3.0,2.0,125.412,Condo
+"Petaling, Selangor",440800.0,33892.0,3.0,2.0,130.062,Condo
+"Gombak, Selangor",550000.0,47252.0,3.0,3.0,116.42,Condo
+"Petaling, Selangor",800000.0,37442.0,4.0,4.0,213.672,House
+"Sepang, Selangor",250000.0,53822.0,2.0,2.0,46.452,Condo
+"Petaling, Selangor",430000.0,32482.0,3.0,3.0,132.382,Condo
+"Kuala Lumpur, Kuala Lumpur",530000.0,51862.0,3.0,2.0,102.192,Condo
+"Gombak, Selangor",429000.0,3062.0,3.0,2.0,14002.0,Condo
+"Petaling, Selangor",220000.0,43062.0,2.0,2.0,51.092,Condo
+"Gombak, Selangor",440000.0,35342.0,3.0,2.0,124.492,Condo
+"Kuala Lumpur, Kuala Lumpur",680000.0,29282.0,5.0,5.0,232.252,Condo
+"Petaling, Selangor",768800.0,38492.0,4.0,3.0,199.732,House
+"Kuala Lumpur, Kuala Lumpur",840000.0,39312.0,4.0,4.0,213.672,House
+"Gombak, Selangor",428000.0,3062.0,3.0,2.0,14002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",830000.0,38842.0,4.0,4.0,213.672,House
+"Petaling, Selangor",429000.0,1622.0,3.0,2.0,26502.0,Condo
+"Petaling, Selangor",800000.0,35882.0,4.0,4.0,222.962,House
+"Kuala Lumpur, Kuala Lumpur",239000.0,25502.0,3.0,3.0,93.742,Condo
+"Kuala Lumpur, Kuala Lumpur",429000.0,33712.0,3.0,2.0,127.272,Condo
+"Kuala Lumpur, Kuala Lumpur",500000.0,53822.0,3.0,2.0,92.92,Condo
+"Petaling, Selangor",428000.0,3062.0,3.0,2.0,14002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",530000.0,51862.0,3.0,2.0,102.192,Condo
+"Gombak, Selangor",658000.0,42212.0,4.0,3.0,155.892,House
+"Kuala Lumpur, Kuala Lumpur",780000.0,36502.0,4.0,4.0,213.672,House
+"Petaling, Selangor",430000.0,3192.0,3.0,2.0,13502.0,Condo
+"Petaling, Selangor",800000.0,35882.0,4.0,3.0,222.962,House
+"Petaling, Selangor",828000.0,37142.0,4.0,4.0,222.962,House
+"Kuala Lumpur, Kuala Lumpur",428000.0,33632.0,3.0,2.0,127.272,Condo
+"Petaling, Selangor",279000.0,37542.0,2.0,2.0,74.322,Condo
+"Kuala Lumpur, Kuala Lumpur",428000.0,32912.0,4.0,3.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",708000.0,80232.0,3.0,2.0,88.252,Condo
+"Gombak, Selangor",450000.0,35672.0,3.0,2.0,126.162,Condo
+"Petaling, Selangor",460000.0,33012.0,3.0,3.0,139.352,Townhouse
+"Petaling, Selangor",660000.0,29422.0,5.0,5.0,224.352,Condo
+"Kuala Lumpur, Kuala Lumpur",429000.0,3062.0,3.0,2.0,14002.0,Condo
+"Kuala Lumpur, Kuala Lumpur",828600.0,49882.0,4.0,4.0,166.112,House
+"Gombak, Selangor",440000.0,35342.0,3.0,2.0,124.492,Condo
+"Kuala Lumpur, Kuala Lumpur",450000.0,19772.0,4.0,4.0,227.62,Condo
+"Kuala Lumpur, Kuala Lumpur",708800.0,82222.0,3.0,2.0,86.212,Condo
+"Petaling, Selangor",750000.0,36702.0,4.0,3.0,204.382,House
+"Gombak, Selangor",230000.0,24762.0,3.0,2.0,92.92,Condo
+"Kuala Lumpur, Kuala Lumpur",250000.0,52762.0,1.0,1.0,47.382,Condo
+"Kuala Lumpur, Kuala Lumpur",466000.0,56362.0,3.0,2.0,82.682,Condo
+"Kuala Lumpur, Kuala Lumpur",856900.0,41032.0,4.0,4.0,208.842,House
+"Kuala Lumpur, Kuala Lumpur",255000.0,51792.0,1.0,1.0,49.242,Condo
+"Kuala Lumpur, Kuala Lumpur",788888.0,91902.0,3.0,2.0,85.842,Condo
+"Kuala Lumpur, Kuala Lumpur",828000.0,38752.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",531040.0,43012.0,3.0,2.0,123.462,Condo
+"Gombak, Selangor",450000.0,36152.0,3.0,2.0,124.492,Condo
+"Petaling, Selangor",450000.0,34602.0,3.0,3.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",720000.0,83332.0,3.0,2.0,86.42,Condo
+"Kuala Lumpur, Kuala Lumpur",300000.0,46132.0,2.0,2.0,65.032,Condo
+"Kuala Lumpur, Kuala Lumpur",820000.0,38382.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",718800.0,83382.0,3.0,2.0,86.212,Condo
+"Kuala Lumpur, Kuala Lumpur",430000.0,33062.0,3.0,2.0,130.062,Condo
+"Petaling, Selangor",450000.0,34602.0,3.0,2.0,130.062,Condo
+"Sepang, Selangor",250000.0,38442.0,2.0,2.0,65.032,Condo
+"Petaling, Selangor",418000.0,32142.0,3.0,3.0,130.062,Condo
+"Kuala Lumpur, Kuala Lumpur",434000.0,34102.0,3.0,2.0,127.272,Condo
+"Ulu Langat, Selangor",518000.0,27882.0,4.0,3.0,185.82,House
+"Kuala Lumpur, Kuala Lumpur",1150000.0,47612.0,4.0,4.0,241.542,House
+"Kuala Lumpur, Kuala Lumpur",718000.0,77292.0,3.0,2.0,92.92,Condo
+"Petaling, Selangor",230000.0,42832.0,2.0,2.0,53.72,Condo
+"Kuala Lumpur, Kuala Lumpur",440000.0,35342.0,3.0,2.0,124.492,Condo
+"Petaling, Selangor",240000.0,46142.0,2.0,2.0,52.022,Condo
+"Putrajaya, Putrajaya",299000.0,24762.0,4.0,3.0,120.772,Condo
+"Kuala Lumpur, Kuala Lumpur",220000.0,78942.0,1.0,1.0,27.872,Condo
+"Gombak, Selangor",826800.0,37252.0,4.0,4.0,221.942,House
+"Petaling, Selangor",848000.0,39692.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",428000.0,51192.0,3.0,2.0,83.612,Condo
+"Petaling, Selangor",430000.0,33062.0,3.0,3.0,130.062,Condo
+"Petaling, Selangor",450000.0,2902.0,3.0,3.0,15502.0,House
+"Kuala Lumpur, Kuala Lumpur",680000.0,29282.0,5.0,5.0,232.252,Condo
+"Petaling, Selangor",780000.0,83962.0,3.0,2.0,92.92,Condo
+"Putrajaya, Putrajaya",260000.0,39982.0,2.0,2.0,65.032,Condo
+"Kuala Lumpur, Kuala Lumpur",250000.0,38442.0,2.0,2.0,65.032,Condo
+"Kuala Lumpur, Kuala Lumpur",800000.0,44032.0,4.0,3.0,181.712,House
+"Gombak, Selangor",445800.0,35812.0,3.0,2.0,124.492,Condo
+"Kuala Lumpur, Kuala Lumpur",300000.0,46132.0,2.0,2.0,65.032,Condo
+"Petaling, Selangor",443000.0,34062.0,3.0,2.0,130.062,Condo
+"Petaling, Selangor",400000.0,57412.0,3.0,2.0,69.672,Condo
+"Gombak, Selangor",498000.0,42782.0,3.0,3.0,116.42,Condo
+"Kuala Lumpur, Kuala Lumpur",428800.0,53172.0,3.0,2.0,80.642,Condo
+"Kuala Selangor, Selangor",445800.0,35812.0,3.0,2.0,124.492,Condo
+"Petaling, Selangor",820000.0,38382.0,4.0,4.0,213.672,House
+"Kuala Lumpur, Kuala Lumpur",300000.0,46132.0,2.0,2.0,65.032,Condo
+"Kuala Lumpur, Kuala Lumpur",445000.0,35752.0,3.0,2.0,124.492,Condo
+"Petaling, Selangor",430000.0,33062.0,3.0,2.0,130.062,Condo
+"Ulu Langat, Selangor",489000.0,35092.0,3.0,3.0,139.352,Condo
+"Gombak, Selangor",445000.0,35272.0,3.0,2.0,126.162,Condo
